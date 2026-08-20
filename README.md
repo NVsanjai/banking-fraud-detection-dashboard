@@ -579,25 +579,28 @@ folder.
 
 ### Executive Fraud Overview
 
-![Executive Fraud Overview](screenshots/executive-fraud-overview.png)
+<img width="1317" height="745" alt="Executive Fraud Overview" src="https://github.com/user-attachments/assets/7993bfcc-4257-4630-a101-386610f4d573" />
+
 
 ### Customer & Transaction Risk
 
-![Customer & Transaction
-Risk](screenshots/customer-transaction-risk.png)
+<img width="1318" height="742" alt="Customer   Transaction Risk" src="https://github.com/user-attachments/assets/9f6e640c-01d9-4c72-bd40-70530ea83e8d" />
+
 
 ### Branch, ATM & Merchant Risk
 
-![Branch, ATM & Merchant Risk](screenshots/branch-atm-merchant-risk.png)
+<img width="1318" height="740" alt="Branch,ATM   Merchant Risk" src="https://github.com/user-attachments/assets/35db03f2-502f-4f76-9a12-8988c3ac133c" />
+
 
 ### Digital Banking & Investigation
 
-![Digital Banking &
-Investigation](screenshots/digital-banking-investigation.png)
+<img width="1316" height="742" alt="Digital Banking   Investigation" src="https://github.com/user-attachments/assets/2d458d5a-6b09-4d2e-b844-69c895ddbf4f" />
+
 
 ### Financial Impact & Recommendations
 
-![Financial Impact & Recommendations](screenshots/financial-impact.png)
+<img width="1321" height="745" alt="Financial Impact   Recommendation" src="https://github.com/user-attachments/assets/9eb23826-ee25-47de-b12c-d49b1bf27267" />
+
 
 ## How to Run the Project
 
