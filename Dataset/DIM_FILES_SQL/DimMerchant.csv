@@ -1,0 +1,1001 @@
+﻿MerchantID,MerchantName,MerchantCategory,City,State,Country,MerchantRiskScore,MerchantStatus,AverageTransactionAmount
+M00001,Global Pay 1,Healthcare,Los Angeles,California,USA,11,Active,69.17
+M00002,Global Tech 2,Gaming,Miami,Florida,USA,82,Active,161.97
+M00003,Apex Travel 3,Travel,Ahmedabad,Gujarat,India,99,Active,50.24
+M00004,Blue Tech 4,Grocery,Miami,Florida,USA,26,Active,59.87
+M00005,Global Foods 5,Gaming,San Francisco,California,USA,90,Active,93.17
+M00006,Global Tech 6,Gaming,Miami,Florida,USA,77,Active,596.17
+M00007,Prime Market 7,Money Transfer,Leeds,England,UK,13,Active,34.02
+M00008,Apex Market 8,Healthcare,Hyderabad,Telangana,India,86,Active,106.39
+M00009,Prime Foods 9,Fuel,San Francisco,California,USA,4,Active,244.63
+M00010,Metro Mart 10,Healthcare,Los Angeles,California,USA,67,Active,847.25
+M00011,Urban Market 11,Grocery,Hyderabad,Telangana,India,93,Active,110.74
+M00012,Apex Mart 12,Money Transfer,Liverpool,England,UK,4,Active,386.77
+M00013,Global Foods 13,Travel,Los Angeles,California,USA,38,Active,255.78
+M00014,Apex Market 14,Marketplace,Houston,Texas,USA,54,Active,99.98
+M00015,Global Tech 15,Healthcare,Berlin,Berlin,Germany,7,Active,61.21
+M00016,Nova Services 16,Jewelry,Mumbai,Maharashtra,India,39,Active,34.15
+M00017,Urban Foods 17,Fuel,Houston,Texas,USA,8,Active,36.82
+M00018,Prime Services 18,Fuel,Hyderabad,Telangana,India,58,Active,62.03
+M00019,Nova Tech 19,Electronics,Manchester,England,UK,9,Active,197.83
+M00020,Blue Foods 20,Restaurant,Frankfurt,Hesse,Germany,27,Active,96.67
+M00021,Global Foods 21,Fuel,Frankfurt,Hesse,Germany,51,Active,214.81
+M00022,Quick Mart 22,Fashion,Mumbai,Maharashtra,India,39,Active,286.21
+M00023,Quick Market 23,Gaming,New York,New York,USA,58,Active,56.71
+M00024,Urban Pay 24,Money Transfer,Chicago,Illinois,USA,99,Active,554.26
+M00025,Urban Services 25,Travel,Pune,Maharashtra,India,3,Active,112.32
+M00026,Metro Store 26,Marketplace,New York,New York,USA,35,Active,207.74
+M00027,Metro Store 27,Money Transfer,Seattle,Washington,USA,19,Active,60.6
+M00028,Metro Foods 28,Fashion,San Francisco,California,USA,48,Active,99.45
+M00029,Prime Travel 29,Healthcare,Chennai,Tamil Nadu,India,20,Active,850.77
+M00030,Blue Market 30,Grocery,Los Angeles,California,USA,51,Active,222.92
+M00031,Global Services 31,Travel,New York,New York,USA,18,Active,295.74
+M00032,Prime Services 32,Fuel,Leeds,England,UK,37,Active,107.55
+M00033,Metro Mart 33,Fashion,Chicago,Illinois,USA,61,Active,79.82
+M00034,Quick Mart 34,Gaming,London,England,UK,94,Active,57.71
+M00035,Global Travel 35,Fuel,Cologne,North Rhine-Westphalia,Germany,72,Active,376.65
+M00036,Metro Foods 36,Travel,Delhi,Delhi,India,32,Active,176.2
+M00037,Urban Foods 37,Crypto Exchange,Delhi,Delhi,India,50,Active,154.62
+M00038,Blue Travel 38,Restaurant,Pune,Maharashtra,India,5,Active,68.01
+M00039,Nova Store 39,Money Transfer,Delhi,Delhi,India,81,Active,63.37
+M00040,Blue Tech 40,Travel,Mumbai,Maharashtra,India,96,Active,177.66
+M00041,Prime Services 41,Fashion,Kolkata,West Bengal,India,24,Active,46.88
+M00042,Prime Store 42,Fuel,Delhi,Delhi,India,45,Active,47.39
+M00043,Global Market 43,Grocery,Houston,Texas,USA,55,Active,103.55
+M00044,Urban Store 44,Marketplace,Seattle,Washington,USA,23,Active,159.78
+M00045,Quick Mart 45,Marketplace,Berlin,Berlin,Germany,68,Active,98.93
+M00046,Blue Store 46,Travel,Seattle,Washington,USA,56,Active,42.23
+M00047,Prime Tech 47,Grocery,Chennai,Tamil Nadu,India,20,Active,100.6
+M00048,Metro Pay 48,Money Transfer,Miami,Florida,USA,60,Active,28.31
+M00049,Metro Store 49,Healthcare,Chicago,Illinois,USA,37,Active,11.12
+M00050,Blue Foods 50,Restaurant,New York,New York,USA,68,Active,17.75
+M00051,Prime Foods 51,Travel,Liverpool,England,UK,19,Active,109.83
+M00052,Prime Pay 52,Money Transfer,Chicago,Illinois,USA,19,Active,178.31
+M00053,Global Store 53,Money Transfer,Ahmedabad,Gujarat,India,45,Active,170.74
+M00054,Quick Store 54,Crypto Exchange,Seattle,Washington,USA,88,Active,39.75
+M00055,Quick Mart 55,Crypto Exchange,Seattle,Washington,USA,15,Active,422.75
+M00056,Quick Pay 56,Travel,Bengaluru,Karnataka,India,7,Active,106.48
+M00057,Metro Tech 57,Travel,Pune,Maharashtra,India,84,Active,131.89
+M00058,Apex Tech 58,Marketplace,Munich,Bavaria,Germany,60,Active,215.26
+M00059,Global Market 59,Grocery,Miami,Florida,USA,31,Active,515.79
+M00060,Blue Mart 60,Electronics,Manchester,England,UK,2,Active,330.29
+M00061,Nova Market 61,Gaming,Hyderabad,Telangana,India,83,Active,127.53
+M00062,Apex Store 62,Electronics,London,England,UK,12,Active,38.19
+M00063,Apex Store 63,Restaurant,New York,New York,USA,63,Active,440.55
+M00064,Nova Travel 64,Restaurant,Seattle,Washington,USA,54,Active,131.85
+M00065,Blue Travel 65,Crypto Exchange,Manchester,England,UK,76,Active,13.0
+M00066,Metro Store 66,Crypto Exchange,Kolkata,West Bengal,India,97,Active,60.67
+M00067,Blue Services 67,Crypto Exchange,Chennai,Tamil Nadu,India,10,Suspended,354.52
+M00068,Quick Store 68,Travel,Berlin,Berlin,Germany,44,Active,42.18
+M00069,Urban Market 69,Fuel,Chicago,Illinois,USA,4,Active,587.28
+M00070,Blue Market 70,Crypto Exchange,Hyderabad,Telangana,India,52,Active,141.84
+M00071,Urban Market 71,Travel,London,England,UK,67,Active,25.21
+M00072,Blue Pay 72,Electronics,Miami,Florida,USA,30,Active,336.2
+M00073,Quick Travel 73,Money Transfer,Dallas,Texas,USA,80,Active,16.72
+M00074,Apex Services 74,Gaming,Seattle,Washington,USA,73,Active,90.14
+M00075,Nova Travel 75,Grocery,Los Angeles,California,USA,3,Active,198.56
+M00076,Blue Foods 76,Gaming,Delhi,Delhi,India,17,Active,161.53
+M00077,Global Services 77,Crypto Exchange,New York,New York,USA,47,Suspended,53.8
+M00078,Prime Foods 78,Money Transfer,Berlin,Berlin,Germany,35,Active,58.04
+M00079,Metro Tech 79,Crypto Exchange,Frankfurt,Hesse,Germany,42,Active,182.88
+M00080,Quick Pay 80,Healthcare,Ahmedabad,Gujarat,India,80,Active,126.27
+M00081,Nova Mart 81,Fuel,Leeds,England,UK,70,Active,178.32
+M00082,Nova Store 82,Fuel,Frankfurt,Hesse,Germany,31,Active,215.82
+M00083,Quick Pay 83,Electronics,Pune,Maharashtra,India,75,Active,344.35
+M00084,Apex Travel 84,Marketplace,Pune,Maharashtra,India,75,Active,179.27
+M00085,Blue Market 85,Travel,Hamburg,Hamburg,Germany,24,Active,83.33
+M00086,Quick Services 86,Fuel,Ahmedabad,Gujarat,India,97,Active,283.54
+M00087,Global Foods 87,Healthcare,Chennai,Tamil Nadu,India,81,Active,300.44
+M00088,Prime Store 88,Crypto Exchange,Chicago,Illinois,USA,40,Active,91.4
+M00089,Blue Market 89,Money Transfer,Pune,Maharashtra,India,9,Active,47.63
+M00090,Metro Pay 90,Jewelry,Manchester,England,UK,30,Active,66.14
+M00091,Quick Market 91,Grocery,Pune,Maharashtra,India,52,Active,37.18
+M00092,Prime Store 92,Gaming,Dallas,Texas,USA,39,Active,120.41
+M00093,Quick Services 93,Marketplace,Dallas,Texas,USA,51,Active,66.39
+M00094,Prime Pay 94,Crypto Exchange,New York,New York,USA,90,Active,32.37
+M00095,Prime Store 95,Money Transfer,Cologne,North Rhine-Westphalia,Germany,36,Active,417.95
+M00096,Prime Services 96,Healthcare,Houston,Texas,USA,24,Active,127.88
+M00097,Blue Market 97,Healthcare,Mumbai,Maharashtra,India,73,Active,63.61
+M00098,Global Store 98,Travel,London,England,UK,21,Active,64.01
+M00099,Global Store 99,Money Transfer,Liverpool,England,UK,47,Active,151.62
+M00100,Prime Store 100,Money Transfer,Ahmedabad,Gujarat,India,39,Active,137.61
+M00101,Apex Travel 101,Gaming,Hamburg,Hamburg,Germany,68,Active,116.39
+M00102,Blue Travel 102,Travel,Houston,Texas,USA,24,Active,96.11
+M00103,Nova Mart 103,Fuel,Miami,Florida,USA,11,Active,176.84
+M00104,Apex Foods 104,Grocery,Pune,Maharashtra,India,55,Active,200.08
+M00105,Global Tech 105,Restaurant,Hyderabad,Telangana,India,20,Active,248.27
+M00106,Apex Travel 106,Crypto Exchange,Cologne,North Rhine-Westphalia,Germany,18,Active,142.64
+M00107,Prime Services 107,Fashion,New York,New York,USA,39,Active,85.58
+M00108,Global Travel 108,Fuel,Chicago,Illinois,USA,6,Active,781.26
+M00109,Quick Market 109,Marketplace,Miami,Florida,USA,83,Active,109.26
+M00110,Global Market 110,Electronics,Miami,Florida,USA,5,Active,75.93
+M00111,Global Market 111,Healthcare,New York,New York,USA,3,Active,132.69
+M00112,Urban Market 112,Grocery,Pune,Maharashtra,India,43,Active,69.48
+M00113,Prime Tech 113,Marketplace,London,England,UK,77,Active,12.12
+M00114,Apex Store 114,Restaurant,Leeds,England,UK,65,Active,313.06
+M00115,Quick Store 115,Restaurant,Seattle,Washington,USA,42,Active,560.49
+M00116,Quick Pay 116,Money Transfer,Mumbai,Maharashtra,India,6,Active,92.56
+M00117,Blue Pay 117,Marketplace,London,England,UK,89,Active,131.95
+M00118,Urban Services 118,Marketplace,Los Angeles,California,USA,80,Active,148.45
+M00119,Prime Services 119,Restaurant,Ahmedabad,Gujarat,India,11,Active,1081.66
+M00120,Blue Foods 120,Jewelry,Kolkata,West Bengal,India,37,Active,221.72
+M00121,Prime Mart 121,Travel,Birmingham,England,UK,85,Active,43.13
+M00122,Global Pay 122,Fuel,Houston,Texas,USA,23,Active,134.24
+M00123,Nova Mart 123,Gaming,Hamburg,Hamburg,Germany,31,Active,653.95
+M00124,Urban Pay 124,Crypto Exchange,Leeds,England,UK,94,Suspended,52.6
+M00125,Blue Tech 125,Travel,Seattle,Washington,USA,15,Active,308.68
+M00126,Prime Market 126,Electronics,London,England,UK,62,Active,27.13
+M00127,Global Mart 127,Crypto Exchange,San Francisco,California,USA,75,Active,95.4
+M00128,Global Mart 128,Fuel,Leeds,England,UK,24,Active,380.93
+M00129,Quick Mart 129,Money Transfer,Manchester,England,UK,29,Active,786.48
+M00130,Nova Foods 130,Fashion,Berlin,Berlin,Germany,64,Active,308.66
+M00131,Quick Services 131,Travel,Los Angeles,California,USA,42,Active,210.8
+M00132,Global Foods 132,Healthcare,Berlin,Berlin,Germany,61,Active,526.61
+M00133,Nova Mart 133,Gaming,London,England,UK,23,Active,392.36
+M00134,Blue Travel 134,Travel,Chennai,Tamil Nadu,India,69,Active,215.65
+M00135,Apex Store 135,Electronics,Ahmedabad,Gujarat,India,32,Active,48.91
+M00136,Global Store 136,Restaurant,Delhi,Delhi,India,90,Active,404.28
+M00137,Metro Pay 137,Restaurant,Frankfurt,Hesse,Germany,44,Active,178.23
+M00138,Metro Foods 138,Jewelry,Dallas,Texas,USA,90,Active,140.54
+M00139,Prime Tech 139,Fashion,Miami,Florida,USA,33,Active,125.85
+M00140,Metro Travel 140,Jewelry,Liverpool,England,UK,26,Active,33.55
+M00141,Apex Pay 141,Fuel,Chicago,Illinois,USA,92,Active,70.4
+M00142,Metro Foods 142,Fuel,Dallas,Texas,USA,12,Active,504.54
+M00143,Prime Services 143,Restaurant,Ahmedabad,Gujarat,India,79,Active,117.23
+M00144,Global Travel 144,Fuel,London,England,UK,17,Active,79.54
+M00145,Blue Market 145,Money Transfer,Kolkata,West Bengal,India,62,Active,218.24
+M00146,Apex Store 146,Marketplace,Los Angeles,California,USA,85,Active,706.96
+M00147,Global Foods 147,Travel,Cologne,North Rhine-Westphalia,Germany,50,Active,257.61
+M00148,Nova Services 148,Travel,Leeds,England,UK,54,Active,499.52
+M00149,Quick Pay 149,Restaurant,Miami,Florida,USA,52,Active,148.72
+M00150,Metro Travel 150,Marketplace,Hyderabad,Telangana,India,70,Active,126.39
+M00151,Metro Pay 151,Crypto Exchange,Seattle,Washington,USA,87,Active,30.92
+M00152,Metro Mart 152,Crypto Exchange,Delhi,Delhi,India,43,Active,159.42
+M00153,Global Pay 153,Jewelry,Hyderabad,Telangana,India,81,Active,94.9
+M00154,Prime Foods 154,Electronics,London,England,UK,93,Active,305.63
+M00155,Apex Tech 155,Healthcare,New York,New York,USA,97,Active,173.36
+M00156,Blue Pay 156,Crypto Exchange,Mumbai,Maharashtra,India,71,Active,69.31
+M00157,Prime Pay 157,Money Transfer,London,England,UK,66,Active,79.29
+M00158,Prime Market 158,Electronics,Dallas,Texas,USA,42,Active,55.39
+M00159,Global Travel 159,Healthcare,Hamburg,Hamburg,Germany,27,Active,116.46
+M00160,Urban Mart 160,Gaming,Miami,Florida,USA,52,Active,103.39
+M00161,Quick Tech 161,Travel,Hyderabad,Telangana,India,63,Active,498.58
+M00162,Apex Store 162,Crypto Exchange,Seattle,Washington,USA,30,Active,181.85
+M00163,Blue Services 163,Grocery,New York,New York,USA,60,Active,593.44
+M00164,Metro Store 164,Jewelry,Los Angeles,California,USA,49,Active,357.5
+M00165,Quick Store 165,Jewelry,Los Angeles,California,USA,31,Active,414.88
+M00166,Blue Tech 166,Crypto Exchange,London,England,UK,19,Active,251.75
+M00167,Apex Market 167,Fashion,Birmingham,England,UK,65,Active,23.39
+M00168,Prime Foods 168,Gaming,Liverpool,England,UK,46,Active,41.32
+M00169,Apex Mart 169,Fashion,Liverpool,England,UK,2,Active,151.72
+M00170,Metro Tech 170,Electronics,Chicago,Illinois,USA,58,Active,386.13
+M00171,Apex Services 171,Fashion,Cologne,North Rhine-Westphalia,Germany,84,Active,162.94
+M00172,Global Services 172,Fuel,Ahmedabad,Gujarat,India,31,Active,250.24
+M00173,Nova Mart 173,Travel,Birmingham,England,UK,47,Active,62.68
+M00174,Metro Travel 174,Jewelry,Los Angeles,California,USA,87,Active,203.89
+M00175,Nova Pay 175,Healthcare,Houston,Texas,USA,96,Active,74.98
+M00176,Metro Foods 176,Restaurant,Chennai,Tamil Nadu,India,49,Active,642.46
+M00177,Prime Pay 177,Crypto Exchange,Dallas,Texas,USA,55,Suspended,142.47
+M00178,Quick Tech 178,Money Transfer,Manchester,England,UK,91,Active,85.58
+M00179,Prime Travel 179,Healthcare,Cologne,North Rhine-Westphalia,Germany,37,Active,88.34
+M00180,Blue Store 180,Fuel,Kolkata,West Bengal,India,95,Active,127.75
+M00181,Quick Services 181,Jewelry,Chennai,Tamil Nadu,India,62,Active,44.65
+M00182,Quick Foods 182,Marketplace,Kolkata,West Bengal,India,41,Active,38.67
+M00183,Quick Store 183,Grocery,Miami,Florida,USA,71,Active,296.8
+M00184,Quick Store 184,Healthcare,Kolkata,West Bengal,India,52,Active,59.72
+M00185,Nova Market 185,Fashion,Miami,Florida,USA,71,Active,54.88
+M00186,Prime Market 186,Jewelry,Chicago,Illinois,USA,6,Active,77.17
+M00187,Blue Services 187,Electronics,Dallas,Texas,USA,98,Active,133.53
+M00188,Prime Tech 188,Jewelry,Los Angeles,California,USA,38,Active,537.65
+M00189,Blue Travel 189,Electronics,Frankfurt,Hesse,Germany,49,Active,69.7
+M00190,Urban Foods 190,Crypto Exchange,San Francisco,California,USA,46,Active,22.53
+M00191,Nova Pay 191,Grocery,Los Angeles,California,USA,82,Active,73.58
+M00192,Quick Store 192,Marketplace,Dallas,Texas,USA,92,Active,178.77
+M00193,Blue Store 193,Healthcare,Chicago,Illinois,USA,85,Active,58.99
+M00194,Apex Market 194,Healthcare,Dallas,Texas,USA,36,Active,43.9
+M00195,Apex Services 195,Money Transfer,Hamburg,Hamburg,Germany,58,Active,362.35
+M00196,Nova Pay 196,Marketplace,Hamburg,Hamburg,Germany,34,Active,142.09
+M00197,Quick Services 197,Electronics,Seattle,Washington,USA,44,Active,26.1
+M00198,Prime Travel 198,Restaurant,Chennai,Tamil Nadu,India,97,Active,193.29
+M00199,Urban Travel 199,Grocery,Ahmedabad,Gujarat,India,54,Active,21.17
+M00200,Quick Market 200,Money Transfer,Los Angeles,California,USA,30,Active,124.9
+M00201,Blue Mart 201,Money Transfer,Houston,Texas,USA,16,Active,48.63
+M00202,Quick Foods 202,Jewelry,Berlin,Berlin,Germany,83,Active,104.48
+M00203,Quick Store 203,Healthcare,Miami,Florida,USA,92,Active,581.57
+M00204,Blue Services 204,Fuel,Seattle,Washington,USA,40,Active,37.54
+M00205,Apex Tech 205,Electronics,Bengaluru,Karnataka,India,28,Active,97.08
+M00206,Apex Market 206,Crypto Exchange,Seattle,Washington,USA,79,Active,135.14
+M00207,Quick Market 207,Restaurant,New York,New York,USA,72,Active,73.84
+M00208,Urban Pay 208,Fuel,Kolkata,West Bengal,India,55,Active,184.9
+M00209,Apex Tech 209,Money Transfer,Dallas,Texas,USA,52,Active,102.19
+M00210,Blue Pay 210,Grocery,Ahmedabad,Gujarat,India,73,Active,662.81
+M00211,Nova Travel 211,Money Transfer,Liverpool,England,UK,93,Active,1859.48
+M00212,Nova Tech 212,Restaurant,Berlin,Berlin,Germany,23,Active,138.83
+M00213,Apex Store 213,Travel,Kolkata,West Bengal,India,81,Suspended,48.57
+M00214,Urban Foods 214,Marketplace,Leeds,England,UK,56,Active,282.46
+M00215,Global Market 215,Crypto Exchange,Bengaluru,Karnataka,India,34,Active,190.78
+M00216,Quick Services 216,Healthcare,Houston,Texas,USA,56,Active,74.41
+M00217,Quick Pay 217,Gaming,Ahmedabad,Gujarat,India,17,Active,265.47
+M00218,Prime Travel 218,Restaurant,Hamburg,Hamburg,Germany,69,Active,149.4
+M00219,Urban Store 219,Money Transfer,Manchester,England,UK,43,Active,307.88
+M00220,Urban Mart 220,Jewelry,Delhi,Delhi,India,22,Active,183.19
+M00221,Quick Mart 221,Jewelry,Miami,Florida,USA,21,Active,85.93
+M00222,Metro Travel 222,Grocery,Manchester,England,UK,99,Active,12.41
+M00223,Quick Pay 223,Crypto Exchange,New York,New York,USA,7,Active,245.36
+M00224,Nova Travel 224,Electronics,New York,New York,USA,84,Active,141.57
+M00225,Urban Mart 225,Restaurant,Cologne,North Rhine-Westphalia,Germany,12,Active,278.72
+M00226,Blue Foods 226,Money Transfer,Seattle,Washington,USA,92,Active,84.8
+M00227,Metro Store 227,Restaurant,Miami,Florida,USA,67,Active,82.71
+M00228,Blue Tech 228,Money Transfer,Bengaluru,Karnataka,India,10,Active,76.55
+M00229,Quick Foods 229,Healthcare,Delhi,Delhi,India,14,Active,49.69
+M00230,Prime Store 230,Gaming,London,England,UK,25,Active,51.93
+M00231,Apex Pay 231,Restaurant,Kolkata,West Bengal,India,37,Active,188.98
+M00232,Urban Market 232,Grocery,Ahmedabad,Gujarat,India,34,Active,33.51
+M00233,Urban Tech 233,Gaming,Manchester,England,UK,42,Active,263.88
+M00234,Quick Pay 234,Grocery,Los Angeles,California,USA,36,Active,11.09
+M00235,Global Services 235,Electronics,San Francisco,California,USA,53,Active,184.49
+M00236,Apex Services 236,Jewelry,New York,New York,USA,9,Active,43.73
+M00237,Apex Services 237,Fuel,Liverpool,England,UK,4,Active,505.7
+M00238,Global Pay 238,Healthcare,San Francisco,California,USA,85,Active,41.86
+M00239,Metro Store 239,Restaurant,London,England,UK,80,Active,153.49
+M00240,Global Pay 240,Gaming,Chennai,Tamil Nadu,India,85,Active,77.98
+M00241,Prime Travel 241,Crypto Exchange,Delhi,Delhi,India,48,Active,34.13
+M00242,Urban Tech 242,Fuel,London,England,UK,87,Active,144.14
+M00243,Metro Pay 243,Money Transfer,Houston,Texas,USA,78,Active,135.05
+M00244,Nova Travel 244,Electronics,Chicago,Illinois,USA,22,Active,18.24
+M00245,Urban Tech 245,Jewelry,Bengaluru,Karnataka,India,78,Active,75.28
+M00246,Urban Pay 246,Electronics,Delhi,Delhi,India,58,Active,65.38
+M00247,Nova Travel 247,Money Transfer,Kolkata,West Bengal,India,29,Active,173.3
+M00248,Global Tech 248,Crypto Exchange,Pune,Maharashtra,India,22,Active,27.39
+M00249,Metro Pay 249,Jewelry,Miami,Florida,USA,25,Active,107.54
+M00250,Prime Store 250,Restaurant,Liverpool,England,UK,10,Active,61.89
+M00251,Urban Foods 251,Restaurant,Ahmedabad,Gujarat,India,9,Active,54.7
+M00252,Metro Store 252,Fuel,Mumbai,Maharashtra,India,7,Active,322.97
+M00253,Urban Travel 253,Crypto Exchange,Mumbai,Maharashtra,India,90,Active,422.99
+M00254,Quick Mart 254,Travel,Bengaluru,Karnataka,India,95,Active,164.27
+M00255,Urban Tech 255,Crypto Exchange,Mumbai,Maharashtra,India,43,Active,93.8
+M00256,Prime Foods 256,Fashion,Bengaluru,Karnataka,India,58,Active,218.38
+M00257,Metro Market 257,Marketplace,Miami,Florida,USA,46,Active,222.81
+M00258,Quick Tech 258,Marketplace,Manchester,England,UK,77,Active,237.5
+M00259,Prime Travel 259,Marketplace,Hyderabad,Telangana,India,20,Active,464.73
+M00260,Nova Mart 260,Grocery,Bengaluru,Karnataka,India,87,Active,23.96
+M00261,Blue Services 261,Jewelry,Birmingham,England,UK,31,Active,349.75
+M00262,Blue Services 262,Crypto Exchange,New York,New York,USA,8,Active,59.88
+M00263,Nova Travel 263,Gaming,Dallas,Texas,USA,66,Active,265.44
+M00264,Urban Foods 264,Marketplace,London,England,UK,34,Active,113.5
+M00265,Quick Store 265,Marketplace,Miami,Florida,USA,20,Active,67.49
+M00266,Global Travel 266,Healthcare,Manchester,England,UK,87,Active,41.66
+M00267,Metro Mart 267,Travel,New York,New York,USA,57,Active,43.91
+M00268,Nova Foods 268,Jewelry,Seattle,Washington,USA,48,Active,20.99
+M00269,Apex Foods 269,Money Transfer,Miami,Florida,USA,34,Active,86.31
+M00270,Metro Travel 270,Fuel,Bengaluru,Karnataka,India,43,Active,193.56
+M00271,Blue Foods 271,Marketplace,Liverpool,England,UK,68,Active,193.03
+M00272,Blue Foods 272,Crypto Exchange,Seattle,Washington,USA,7,Active,41.18
+M00273,Urban Services 273,Healthcare,Liverpool,England,UK,66,Active,113.48
+M00274,Prime Pay 274,Jewelry,Hamburg,Hamburg,Germany,17,Active,115.6
+M00275,Nova Pay 275,Gaming,Liverpool,England,UK,64,Active,62.59
+M00276,Apex Travel 276,Money Transfer,Munich,Bavaria,Germany,59,Active,79.67
+M00277,Quick Pay 277,Healthcare,Dallas,Texas,USA,58,Active,189.9
+M00278,Urban Store 278,Healthcare,Bengaluru,Karnataka,India,1,Active,46.31
+M00279,Urban Market 279,Gaming,Ahmedabad,Gujarat,India,13,Active,461.1
+M00280,Apex Tech 280,Crypto Exchange,Mumbai,Maharashtra,India,46,Active,131.76
+M00281,Global Travel 281,Jewelry,Hamburg,Hamburg,Germany,15,Active,70.49
+M00282,Apex Pay 282,Electronics,Pune,Maharashtra,India,6,Active,124.25
+M00283,Blue Foods 283,Crypto Exchange,Hyderabad,Telangana,India,70,Suspended,61.79
+M00284,Apex Travel 284,Marketplace,San Francisco,California,USA,6,Active,186.51
+M00285,Prime Services 285,Healthcare,San Francisco,California,USA,17,Active,130.32
+M00286,Nova Travel 286,Electronics,Kolkata,West Bengal,India,71,Active,216.77
+M00287,Nova Foods 287,Fashion,Liverpool,England,UK,55,Active,68.07
+M00288,Metro Pay 288,Fashion,Dallas,Texas,USA,63,Active,100.91
+M00289,Metro Mart 289,Gaming,Chicago,Illinois,USA,69,Active,264.54
+M00290,Blue Mart 290,Electronics,Houston,Texas,USA,41,Active,397.86
+M00291,Blue Tech 291,Grocery,Birmingham,England,UK,88,Active,645.98
+M00292,Urban Services 292,Fuel,Seattle,Washington,USA,35,Active,155.36
+M00293,Quick Travel 293,Jewelry,Delhi,Delhi,India,95,Active,43.7
+M00294,Quick Mart 294,Money Transfer,London,England,UK,98,Active,171.06
+M00295,Prime Foods 295,Healthcare,Berlin,Berlin,Germany,16,Active,120.17
+M00296,Blue Pay 296,Electronics,Ahmedabad,Gujarat,India,72,Active,64.3
+M00297,Metro Mart 297,Gaming,Los Angeles,California,USA,66,Active,176.36
+M00298,Nova Store 298,Grocery,Los Angeles,California,USA,29,Active,35.19
+M00299,Prime Mart 299,Restaurant,Chicago,Illinois,USA,4,Active,949.95
+M00300,Blue Foods 300,Grocery,Chicago,Illinois,USA,26,Active,312.44
+M00301,Nova Services 301,Crypto Exchange,Frankfurt,Hesse,Germany,74,Active,104.53
+M00302,Global Foods 302,Grocery,Chicago,Illinois,USA,93,Active,341.41
+M00303,Nova Services 303,Restaurant,Liverpool,England,UK,76,Active,217.61
+M00304,Nova Mart 304,Grocery,Mumbai,Maharashtra,India,27,Active,916.93
+M00305,Nova Pay 305,Money Transfer,Los Angeles,California,USA,33,Active,40.62
+M00306,Global Mart 306,Electronics,Manchester,England,UK,17,Active,107.54
+M00307,Urban Tech 307,Fashion,Birmingham,England,UK,37,Active,11.4
+M00308,Global Mart 308,Electronics,Chicago,Illinois,USA,4,Active,56.41
+M00309,Prime Foods 309,Money Transfer,Berlin,Berlin,Germany,95,Active,483.06
+M00310,Apex Market 310,Grocery,New York,New York,USA,52,Active,489.02
+M00311,Quick Foods 311,Electronics,Pune,Maharashtra,India,56,Active,77.3
+M00312,Blue Market 312,Restaurant,San Francisco,California,USA,52,Active,254.93
+M00313,Prime Services 313,Fashion,Leeds,England,UK,12,Active,123.48
+M00314,Urban Tech 314,Jewelry,Birmingham,England,UK,86,Active,723.29
+M00315,Metro Travel 315,Restaurant,Hamburg,Hamburg,Germany,87,Active,55.84
+M00316,Blue Pay 316,Marketplace,Mumbai,Maharashtra,India,4,Active,51.73
+M00317,Nova Travel 317,Money Transfer,New York,New York,USA,95,Active,117.08
+M00318,Apex Market 318,Grocery,Miami,Florida,USA,3,Active,136.93
+M00319,Blue Pay 319,Marketplace,Berlin,Berlin,Germany,54,Active,206.6
+M00320,Prime Foods 320,Healthcare,Miami,Florida,USA,92,Active,242.98
+M00321,Quick Market 321,Money Transfer,Hamburg,Hamburg,Germany,47,Active,62.38
+M00322,Prime Travel 322,Electronics,Hyderabad,Telangana,India,92,Active,83.15
+M00323,Nova Pay 323,Grocery,Mumbai,Maharashtra,India,9,Active,217.83
+M00324,Metro Services 324,Grocery,Chennai,Tamil Nadu,India,82,Active,12.84
+M00325,Nova Market 325,Restaurant,Delhi,Delhi,India,89,Active,79.06
+M00326,Prime Services 326,Travel,Houston,Texas,USA,14,Active,15.76
+M00327,Nova Foods 327,Electronics,Berlin,Berlin,Germany,68,Active,114.36
+M00328,Prime Travel 328,Healthcare,Liverpool,England,UK,71,Active,527.47
+M00329,Apex Foods 329,Jewelry,Chennai,Tamil Nadu,India,16,Active,137.19
+M00330,Urban Services 330,Fuel,Hyderabad,Telangana,India,68,Active,175.58
+M00331,Urban Tech 331,Fashion,Munich,Bavaria,Germany,33,Active,267.39
+M00332,Nova Tech 332,Grocery,Frankfurt,Hesse,Germany,46,Active,67.76
+M00333,Apex Pay 333,Money Transfer,Bengaluru,Karnataka,India,50,Active,106.91
+M00334,Global Travel 334,Gaming,New York,New York,USA,43,Active,52.88
+M00335,Quick Travel 335,Electronics,Chennai,Tamil Nadu,India,15,Active,286.99
+M00336,Blue Travel 336,Restaurant,Mumbai,Maharashtra,India,4,Active,301.96
+M00337,Global Travel 337,Restaurant,Hamburg,Hamburg,Germany,82,Active,96.98
+M00338,Blue Pay 338,Fashion,Bengaluru,Karnataka,India,97,Active,79.57
+M00339,Global Travel 339,Grocery,Leeds,England,UK,86,Active,478.0
+M00340,Prime Pay 340,Grocery,Chicago,Illinois,USA,68,Active,75.64
+M00341,Global Foods 341,Crypto Exchange,Mumbai,Maharashtra,India,18,Active,66.79
+M00342,Global Market 342,Crypto Exchange,Dallas,Texas,USA,60,Active,29.66
+M00343,Global Pay 343,Healthcare,Birmingham,England,UK,81,Active,238.03
+M00344,Apex Travel 344,Money Transfer,Delhi,Delhi,India,60,Active,418.13
+M00345,Metro Foods 345,Fashion,Chicago,Illinois,USA,80,Active,142.2
+M00346,Global Services 346,Fuel,Frankfurt,Hesse,Germany,51,Active,296.86
+M00347,Blue Store 347,Crypto Exchange,Houston,Texas,USA,39,Active,147.82
+M00348,Apex Market 348,Marketplace,Leeds,England,UK,65,Active,287.69
+M00349,Blue Travel 349,Gaming,Berlin,Berlin,Germany,1,Active,37.37
+M00350,Nova Market 350,Travel,Berlin,Berlin,Germany,48,Active,143.59
+M00351,Metro Travel 351,Jewelry,Liverpool,England,UK,3,Active,95.51
+M00352,Metro Market 352,Jewelry,Chicago,Illinois,USA,41,Active,68.6
+M00353,Blue Tech 353,Jewelry,Liverpool,England,UK,89,Active,95.73
+M00354,Apex Services 354,Fashion,Bengaluru,Karnataka,India,32,Active,21.59
+M00355,Urban Foods 355,Marketplace,Miami,Florida,USA,68,Active,73.09
+M00356,Quick Mart 356,Fuel,Seattle,Washington,USA,77,Active,367.71
+M00357,Metro Travel 357,Healthcare,Ahmedabad,Gujarat,India,58,Active,164.52
+M00358,Prime Services 358,Jewelry,Bengaluru,Karnataka,India,25,Active,57.4
+M00359,Urban Pay 359,Healthcare,Delhi,Delhi,India,16,Active,72.95
+M00360,Nova Services 360,Travel,Seattle,Washington,USA,34,Active,40.15
+M00361,Apex Mart 361,Jewelry,New York,New York,USA,85,Active,364.21
+M00362,Apex Mart 362,Healthcare,Los Angeles,California,USA,24,Active,179.09
+M00363,Quick Mart 363,Healthcare,Mumbai,Maharashtra,India,79,Active,530.78
+M00364,Metro Tech 364,Healthcare,Cologne,North Rhine-Westphalia,Germany,58,Active,106.18
+M00365,Apex Store 365,Electronics,Birmingham,England,UK,92,Active,28.3
+M00366,Quick Market 366,Grocery,Mumbai,Maharashtra,India,84,Active,161.91
+M00367,Quick Foods 367,Gaming,Chennai,Tamil Nadu,India,60,Active,431.39
+M00368,Prime Services 368,Jewelry,Los Angeles,California,USA,14,Active,504.49
+M00369,Nova Services 369,Healthcare,Chennai,Tamil Nadu,India,35,Active,40.33
+M00370,Metro Tech 370,Fashion,Kolkata,West Bengal,India,79,Active,90.25
+M00371,Global Travel 371,Travel,London,England,UK,48,Active,200.94
+M00372,Prime Tech 372,Electronics,Leeds,England,UK,68,Active,80.74
+M00373,Prime Pay 373,Fuel,London,England,UK,42,Active,30.42
+M00374,Metro Mart 374,Money Transfer,New York,New York,USA,74,Active,88.37
+M00375,Apex Mart 375,Restaurant,Leeds,England,UK,76,Active,82.48
+M00376,Blue Services 376,Restaurant,Ahmedabad,Gujarat,India,13,Active,64.94
+M00377,Prime Tech 377,Electronics,San Francisco,California,USA,29,Active,268.77
+M00378,Apex Services 378,Gaming,Leeds,England,UK,17,Active,257.54
+M00379,Quick Tech 379,Marketplace,Seattle,Washington,USA,88,Active,190.27
+M00380,Nova Travel 380,Money Transfer,Munich,Bavaria,Germany,15,Active,83.9
+M00381,Metro Mart 381,Gaming,Cologne,North Rhine-Westphalia,Germany,88,Active,154.87
+M00382,Blue Tech 382,Electronics,Liverpool,England,UK,70,Active,238.54
+M00383,Prime Travel 383,Marketplace,Manchester,England,UK,47,Active,132.4
+M00384,Apex Travel 384,Gaming,Chennai,Tamil Nadu,India,9,Active,189.38
+M00385,Nova Pay 385,Fuel,Dallas,Texas,USA,31,Active,301.83
+M00386,Quick Foods 386,Electronics,Kolkata,West Bengal,India,16,Active,121.84
+M00387,Global Services 387,Fuel,Bengaluru,Karnataka,India,58,Active,110.55
+M00388,Quick Pay 388,Fuel,Leeds,England,UK,19,Active,68.56
+M00389,Nova Foods 389,Money Transfer,San Francisco,California,USA,69,Active,91.13
+M00390,Global Store 390,Restaurant,Kolkata,West Bengal,India,9,Active,49.78
+M00391,Blue Store 391,Electronics,Hyderabad,Telangana,India,7,Active,36.49
+M00392,Metro Travel 392,Fashion,Hyderabad,Telangana,India,76,Active,51.96
+M00393,Urban Store 393,Money Transfer,San Francisco,California,USA,36,Active,141.15
+M00394,Prime Market 394,Crypto Exchange,Pune,Maharashtra,India,55,Active,62.54
+M00395,Metro Market 395,Restaurant,Birmingham,England,UK,54,Active,28.29
+M00396,Blue Services 396,Fashion,Seattle,Washington,USA,17,Active,16.85
+M00397,Apex Services 397,Travel,Houston,Texas,USA,26,Active,78.1
+M00398,Metro Foods 398,Electronics,Munich,Bavaria,Germany,62,Active,110.88
+M00399,Urban Foods 399,Restaurant,Berlin,Berlin,Germany,94,Active,31.74
+M00400,Nova Services 400,Travel,Chicago,Illinois,USA,8,Active,61.4
+M00401,Apex Travel 401,Marketplace,Bengaluru,Karnataka,India,98,Active,1178.21
+M00402,Apex Travel 402,Grocery,Hamburg,Hamburg,Germany,75,Active,24.61
+M00403,Blue Foods 403,Grocery,Bengaluru,Karnataka,India,84,Active,408.35
+M00404,Prime Market 404,Healthcare,Mumbai,Maharashtra,India,35,Active,33.48
+M00405,Global Mart 405,Electronics,Chicago,Illinois,USA,16,Active,166.97
+M00406,Metro Store 406,Jewelry,Miami,Florida,USA,60,Active,334.73
+M00407,Global Services 407,Healthcare,Seattle,Washington,USA,51,Active,186.05
+M00408,Blue Travel 408,Jewelry,Hyderabad,Telangana,India,13,Active,136.04
+M00409,Apex Foods 409,Electronics,Manchester,England,UK,26,Active,82.33
+M00410,Nova Foods 410,Crypto Exchange,Frankfurt,Hesse,Germany,10,Active,53.18
+M00411,Blue Travel 411,Restaurant,San Francisco,California,USA,60,Active,367.1
+M00412,Blue Tech 412,Jewelry,Kolkata,West Bengal,India,42,Active,75.34
+M00413,Global Mart 413,Money Transfer,Leeds,England,UK,60,Active,135.84
+M00414,Apex Tech 414,Travel,Ahmedabad,Gujarat,India,82,Active,64.75
+M00415,Global Store 415,Marketplace,Delhi,Delhi,India,16,Active,216.24
+M00416,Urban Services 416,Travel,Liverpool,England,UK,33,Active,81.05
+M00417,Nova Travel 417,Fuel,Manchester,England,UK,9,Active,54.68
+M00418,Quick Store 418,Travel,Miami,Florida,USA,65,Active,45.28
+M00419,Nova Travel 419,Money Transfer,Seattle,Washington,USA,67,Active,43.59
+M00420,Prime Foods 420,Money Transfer,Birmingham,England,UK,16,Active,58.8
+M00421,Blue Services 421,Jewelry,Chicago,Illinois,USA,44,Active,93.0
+M00422,Urban Foods 422,Marketplace,Seattle,Washington,USA,24,Active,82.16
+M00423,Urban Store 423,Healthcare,Berlin,Berlin,Germany,6,Active,719.23
+M00424,Prime Market 424,Travel,Munich,Bavaria,Germany,63,Active,527.34
+M00425,Apex Tech 425,Grocery,Dallas,Texas,USA,60,Active,67.99
+M00426,Prime Market 426,Crypto Exchange,Miami,Florida,USA,16,Active,51.07
+M00427,Urban Tech 427,Electronics,Pune,Maharashtra,India,61,Active,19.64
+M00428,Apex Services 428,Fuel,Delhi,Delhi,India,72,Active,99.57
+M00429,Global Store 429,Fashion,Manchester,England,UK,96,Active,136.4
+M00430,Apex Tech 430,Electronics,Cologne,North Rhine-Westphalia,Germany,85,Active,42.27
+M00431,Metro Market 431,Travel,Birmingham,England,UK,16,Active,737.83
+M00432,Metro Mart 432,Grocery,Miami,Florida,USA,26,Active,81.32
+M00433,Global Tech 433,Grocery,Bengaluru,Karnataka,India,95,Active,66.27
+M00434,Urban Store 434,Grocery,Frankfurt,Hesse,Germany,65,Active,109.58
+M00435,Apex Mart 435,Marketplace,Birmingham,England,UK,6,Active,242.88
+M00436,Apex Travel 436,Marketplace,Munich,Bavaria,Germany,91,Active,161.12
+M00437,Global Services 437,Grocery,New York,New York,USA,72,Suspended,175.98
+M00438,Global Pay 438,Electronics,Seattle,Washington,USA,53,Active,66.35
+M00439,Nova Foods 439,Healthcare,Cologne,North Rhine-Westphalia,Germany,44,Active,363.33
+M00440,Metro Store 440,Healthcare,Bengaluru,Karnataka,India,92,Active,106.48
+M00441,Metro Store 441,Electronics,Berlin,Berlin,Germany,22,Active,159.29
+M00442,Apex Travel 442,Jewelry,Birmingham,England,UK,49,Active,342.29
+M00443,Global Store 443,Restaurant,Kolkata,West Bengal,India,50,Active,142.36
+M00444,Apex Foods 444,Electronics,Chicago,Illinois,USA,47,Active,111.67
+M00445,Metro Pay 445,Crypto Exchange,San Francisco,California,USA,34,Active,77.47
+M00446,Quick Tech 446,Fuel,Leeds,England,UK,50,Active,493.12
+M00447,Metro Store 447,Gaming,Los Angeles,California,USA,88,Active,137.43
+M00448,Blue Pay 448,Healthcare,London,England,UK,88,Active,38.69
+M00449,Nova Travel 449,Fuel,Kolkata,West Bengal,India,84,Active,41.18
+M00450,Blue Market 450,Jewelry,Dallas,Texas,USA,36,Active,79.44
+M00451,Urban Travel 451,Marketplace,Pune,Maharashtra,India,16,Active,115.09
+M00452,Metro Market 452,Fuel,Pune,Maharashtra,India,31,Active,18.7
+M00453,Apex Market 453,Fashion,Kolkata,West Bengal,India,71,Active,95.96
+M00454,Metro Pay 454,Healthcare,Chicago,Illinois,USA,5,Active,97.5
+M00455,Blue Pay 455,Healthcare,Seattle,Washington,USA,48,Active,51.21
+M00456,Global Pay 456,Gaming,Dallas,Texas,USA,41,Active,386.71
+M00457,Global Services 457,Healthcare,Hyderabad,Telangana,India,35,Active,54.88
+M00458,Apex Pay 458,Marketplace,Los Angeles,California,USA,80,Active,86.54
+M00459,Blue Market 459,Restaurant,Frankfurt,Hesse,Germany,59,Active,135.69
+M00460,Global Market 460,Grocery,Frankfurt,Hesse,Germany,10,Active,78.44
+M00461,Prime Pay 461,Grocery,Ahmedabad,Gujarat,India,60,Active,182.81
+M00462,Blue Foods 462,Jewelry,Frankfurt,Hesse,Germany,39,Active,43.37
+M00463,Metro Foods 463,Money Transfer,Cologne,North Rhine-Westphalia,Germany,86,Active,250.47
+M00464,Global Pay 464,Grocery,Delhi,Delhi,India,69,Active,157.2
+M00465,Metro Tech 465,Crypto Exchange,Leeds,England,UK,80,Active,193.11
+M00466,Nova Travel 466,Money Transfer,Birmingham,England,UK,93,Active,224.29
+M00467,Urban Tech 467,Electronics,Hamburg,Hamburg,Germany,12,Suspended,35.08
+M00468,Urban Pay 468,Fashion,Seattle,Washington,USA,81,Active,132.25
+M00469,Metro Market 469,Travel,Chicago,Illinois,USA,36,Active,66.38
+M00470,Apex Pay 470,Restaurant,Mumbai,Maharashtra,India,99,Active,76.62
+M00471,Blue Services 471,Travel,New York,New York,USA,29,Active,174.65
+M00472,Quick Foods 472,Grocery,Los Angeles,California,USA,35,Active,67.27
+M00473,Metro Mart 473,Grocery,Cologne,North Rhine-Westphalia,Germany,72,Active,103.0
+M00474,Quick Services 474,Grocery,Los Angeles,California,USA,57,Active,875.1
+M00475,Quick Store 475,Fashion,Chennai,Tamil Nadu,India,83,Active,123.2
+M00476,Apex Services 476,Money Transfer,Houston,Texas,USA,85,Active,141.64
+M00477,Urban Travel 477,Jewelry,Kolkata,West Bengal,India,83,Active,251.38
+M00478,Prime Foods 478,Crypto Exchange,Hyderabad,Telangana,India,82,Active,34.32
+M00479,Prime Services 479,Fashion,San Francisco,California,USA,42,Active,281.31
+M00480,Apex Tech 480,Money Transfer,Hyderabad,Telangana,India,20,Active,439.75
+M00481,Metro Market 481,Electronics,Hamburg,Hamburg,Germany,68,Active,98.54
+M00482,Apex Tech 482,Fuel,Dallas,Texas,USA,69,Active,99.25
+M00483,Blue Tech 483,Gaming,Miami,Florida,USA,6,Active,282.6
+M00484,Global Market 484,Electronics,Houston,Texas,USA,30,Active,41.59
+M00485,Metro Pay 485,Marketplace,Chicago,Illinois,USA,86,Active,88.41
+M00486,Metro Foods 486,Fashion,Liverpool,England,UK,32,Active,92.6
+M00487,Nova Store 487,Electronics,Hyderabad,Telangana,India,76,Active,194.6
+M00488,Apex Store 488,Money Transfer,New York,New York,USA,28,Active,62.74
+M00489,Global Tech 489,Money Transfer,Hyderabad,Telangana,India,28,Active,326.67
+M00490,Apex Mart 490,Crypto Exchange,Chennai,Tamil Nadu,India,25,Active,122.65
+M00491,Global Store 491,Travel,Leeds,England,UK,66,Active,42.53
+M00492,Blue Store 492,Grocery,Liverpool,England,UK,25,Active,158.75
+M00493,Apex Tech 493,Money Transfer,Bengaluru,Karnataka,India,24,Suspended,85.14
+M00494,Quick Market 494,Grocery,Los Angeles,California,USA,76,Active,32.78
+M00495,Apex Travel 495,Crypto Exchange,Mumbai,Maharashtra,India,85,Active,277.13
+M00496,Apex Pay 496,Restaurant,Seattle,Washington,USA,14,Active,135.47
+M00497,Prime Travel 497,Gaming,New York,New York,USA,13,Active,142.85
+M00498,Blue Store 498,Gaming,Frankfurt,Hesse,Germany,21,Active,98.99
+M00499,Nova Travel 499,Gaming,Dallas,Texas,USA,81,Active,173.05
+M00500,Blue Travel 500,Jewelry,Berlin,Berlin,Germany,10,Active,195.57
+M00501,Blue Travel 501,Grocery,Dallas,Texas,USA,35,Active,107.15
+M00502,Metro Services 502,Fashion,Chicago,Illinois,USA,85,Active,113.38
+M00503,Prime Travel 503,Crypto Exchange,Liverpool,England,UK,51,Active,53.64
+M00504,Nova Market 504,Healthcare,London,England,UK,49,Active,145.23
+M00505,Quick Mart 505,Fuel,New York,New York,USA,31,Active,174.3
+M00506,Nova Store 506,Electronics,Hamburg,Hamburg,Germany,56,Active,369.66
+M00507,Urban Mart 507,Gaming,Kolkata,West Bengal,India,13,Active,69.68
+M00508,Blue Travel 508,Gaming,Frankfurt,Hesse,Germany,23,Active,68.19
+M00509,Urban Tech 509,Fuel,Mumbai,Maharashtra,India,59,Active,88.04
+M00510,Metro Travel 510,Jewelry,Seattle,Washington,USA,75,Active,109.51
+M00511,Nova Foods 511,Fashion,Los Angeles,California,USA,52,Active,158.77
+M00512,Quick Travel 512,Crypto Exchange,Pune,Maharashtra,India,4,Active,91.45
+M00513,Blue Tech 513,Fuel,Houston,Texas,USA,76,Active,52.95
+M00514,Nova Market 514,Fuel,Seattle,Washington,USA,50,Active,90.48
+M00515,Quick Foods 515,Marketplace,Berlin,Berlin,Germany,59,Active,42.29
+M00516,Prime Store 516,Gaming,London,England,UK,77,Active,627.49
+M00517,Nova Travel 517,Fashion,San Francisco,California,USA,78,Active,62.14
+M00518,Urban Foods 518,Fashion,Miami,Florida,USA,40,Active,190.16
+M00519,Urban Services 519,Fuel,Mumbai,Maharashtra,India,17,Active,298.05
+M00520,Global Services 520,Marketplace,Birmingham,England,UK,63,Active,29.56
+M00521,Urban Services 521,Electronics,Seattle,Washington,USA,44,Active,283.05
+M00522,Metro Services 522,Grocery,San Francisco,California,USA,51,Active,245.64
+M00523,Urban Pay 523,Restaurant,Mumbai,Maharashtra,India,5,Active,97.37
+M00524,Prime Pay 524,Marketplace,Chicago,Illinois,USA,22,Active,339.91
+M00525,Nova Travel 525,Money Transfer,Mumbai,Maharashtra,India,97,Active,138.92
+M00526,Metro Mart 526,Healthcare,Chennai,Tamil Nadu,India,40,Active,50.18
+M00527,Apex Market 527,Grocery,Delhi,Delhi,India,75,Active,151.84
+M00528,Urban Store 528,Fashion,Pune,Maharashtra,India,76,Active,210.83
+M00529,Urban Store 529,Marketplace,Ahmedabad,Gujarat,India,75,Active,192.87
+M00530,Global Services 530,Electronics,Kolkata,West Bengal,India,1,Active,45.02
+M00531,Urban Tech 531,Jewelry,Leeds,England,UK,90,Active,148.8
+M00532,Urban Tech 532,Travel,Chennai,Tamil Nadu,India,46,Active,8.03
+M00533,Blue Services 533,Crypto Exchange,Chicago,Illinois,USA,4,Active,236.53
+M00534,Urban Pay 534,Grocery,Miami,Florida,USA,73,Active,165.76
+M00535,Urban Pay 535,Marketplace,Miami,Florida,USA,48,Active,123.54
+M00536,Metro Mart 536,Marketplace,Leeds,England,UK,21,Active,127.78
+M00537,Prime Foods 537,Jewelry,Seattle,Washington,USA,59,Active,67.81
+M00538,Metro Services 538,Fashion,Cologne,North Rhine-Westphalia,Germany,87,Active,38.01
+M00539,Global Pay 539,Gaming,San Francisco,California,USA,45,Active,194.34
+M00540,Blue Market 540,Electronics,Hyderabad,Telangana,India,80,Active,152.48
+M00541,Apex Foods 541,Fuel,Ahmedabad,Gujarat,India,87,Active,144.66
+M00542,Blue Tech 542,Crypto Exchange,Chennai,Tamil Nadu,India,15,Active,158.13
+M00543,Prime Pay 543,Travel,Frankfurt,Hesse,Germany,92,Active,304.46
+M00544,Prime Pay 544,Grocery,New York,New York,USA,13,Active,416.71
+M00545,Global Foods 545,Jewelry,Los Angeles,California,USA,44,Active,108.05
+M00546,Prime Market 546,Fuel,Los Angeles,California,USA,46,Active,70.1
+M00547,Blue Services 547,Money Transfer,New York,New York,USA,12,Active,278.56
+M00548,Global Store 548,Fuel,Houston,Texas,USA,74,Active,50.94
+M00549,Prime Store 549,Healthcare,Dallas,Texas,USA,47,Active,281.24
+M00550,Prime Store 550,Crypto Exchange,Kolkata,West Bengal,India,45,Active,55.26
+M00551,Urban Market 551,Marketplace,Houston,Texas,USA,60,Active,35.74
+M00552,Urban Tech 552,Electronics,Hyderabad,Telangana,India,21,Active,43.09
+M00553,Global Travel 553,Marketplace,Seattle,Washington,USA,97,Active,72.01
+M00554,Blue Services 554,Travel,Leeds,England,UK,85,Active,267.87
+M00555,Quick Mart 555,Electronics,Frankfurt,Hesse,Germany,90,Active,30.82
+M00556,Nova Foods 556,Marketplace,Chennai,Tamil Nadu,India,13,Active,10.07
+M00557,Urban Store 557,Grocery,Houston,Texas,USA,61,Active,452.8
+M00558,Blue Services 558,Electronics,Munich,Bavaria,Germany,49,Active,234.1
+M00559,Global Travel 559,Gaming,Munich,Bavaria,Germany,74,Active,316.13
+M00560,Nova Foods 560,Marketplace,Chicago,Illinois,USA,59,Active,320.29
+M00561,Blue Market 561,Fashion,London,England,UK,59,Active,69.34
+M00562,Urban Tech 562,Jewelry,Kolkata,West Bengal,India,95,Active,15.51
+M00563,Prime Pay 563,Fuel,Hyderabad,Telangana,India,28,Active,41.11
+M00564,Apex Mart 564,Crypto Exchange,Mumbai,Maharashtra,India,61,Active,151.89
+M00565,Urban Store 565,Fashion,Hyderabad,Telangana,India,93,Active,61.19
+M00566,Apex Services 566,Electronics,Liverpool,England,UK,22,Suspended,86.08
+M00567,Prime Tech 567,Jewelry,Dallas,Texas,USA,96,Active,35.89
+M00568,Metro Tech 568,Crypto Exchange,Bengaluru,Karnataka,India,59,Active,45.83
+M00569,Metro Market 569,Fashion,Liverpool,England,UK,67,Active,130.66
+M00570,Blue Services 570,Fuel,Miami,Florida,USA,67,Active,78.05
+M00571,Nova Services 571,Marketplace,San Francisco,California,USA,34,Active,243.23
+M00572,Blue Services 572,Money Transfer,Bengaluru,Karnataka,India,74,Active,166.21
+M00573,Blue Store 573,Jewelry,Ahmedabad,Gujarat,India,75,Active,199.93
+M00574,Nova Store 574,Healthcare,New York,New York,USA,38,Active,51.57
+M00575,Metro Market 575,Electronics,Leeds,England,UK,56,Active,160.55
+M00576,Urban Tech 576,Restaurant,Kolkata,West Bengal,India,42,Active,309.13
+M00577,Prime Travel 577,Grocery,Miami,Florida,USA,76,Active,329.25
+M00578,Nova Foods 578,Marketplace,Birmingham,England,UK,7,Active,88.19
+M00579,Prime Tech 579,Grocery,Pune,Maharashtra,India,2,Active,62.3
+M00580,Metro Tech 580,Travel,London,England,UK,57,Active,18.59
+M00581,Prime Mart 581,Jewelry,New York,New York,USA,21,Active,40.38
+M00582,Metro Mart 582,Gaming,Hamburg,Hamburg,Germany,41,Active,95.37
+M00583,Prime Pay 583,Healthcare,Hamburg,Hamburg,Germany,47,Active,121.38
+M00584,Prime Pay 584,Fashion,New York,New York,USA,74,Active,427.62
+M00585,Prime Store 585,Gaming,Hamburg,Hamburg,Germany,96,Active,420.97
+M00586,Prime Travel 586,Crypto Exchange,New York,New York,USA,9,Active,249.52
+M00587,Blue Tech 587,Crypto Exchange,San Francisco,California,USA,5,Active,612.03
+M00588,Blue Services 588,Fuel,San Francisco,California,USA,10,Active,191.68
+M00589,Blue Tech 589,Electronics,Houston,Texas,USA,24,Active,90.07
+M00590,Global Market 590,Crypto Exchange,Mumbai,Maharashtra,India,58,Active,112.55
+M00591,Global Tech 591,Travel,Bengaluru,Karnataka,India,13,Suspended,49.68
+M00592,Urban Foods 592,Healthcare,Pune,Maharashtra,India,50,Active,21.86
+M00593,Urban Market 593,Money Transfer,Manchester,England,UK,55,Active,100.23
+M00594,Quick Services 594,Gaming,Chennai,Tamil Nadu,India,32,Active,67.61
+M00595,Apex Travel 595,Crypto Exchange,Kolkata,West Bengal,India,12,Active,134.67
+M00596,Urban Tech 596,Crypto Exchange,Kolkata,West Bengal,India,16,Active,117.16
+M00597,Prime Store 597,Marketplace,Frankfurt,Hesse,Germany,14,Active,152.43
+M00598,Apex Tech 598,Gaming,Cologne,North Rhine-Westphalia,Germany,75,Active,270.98
+M00599,Quick Tech 599,Marketplace,Bengaluru,Karnataka,India,74,Active,316.74
+M00600,Prime Services 600,Money Transfer,San Francisco,California,USA,57,Active,37.05
+M00601,Prime Market 601,Healthcare,San Francisco,California,USA,25,Active,299.49
+M00602,Quick Travel 602,Crypto Exchange,Munich,Bavaria,Germany,86,Active,510.53
+M00603,Quick Pay 603,Money Transfer,Leeds,England,UK,37,Active,98.88
+M00604,Quick Store 604,Fuel,Seattle,Washington,USA,64,Active,12.23
+M00605,Metro Market 605,Marketplace,Mumbai,Maharashtra,India,94,Active,41.76
+M00606,Nova Mart 606,Gaming,New York,New York,USA,10,Active,250.37
+M00607,Blue Travel 607,Travel,Hyderabad,Telangana,India,32,Active,245.95
+M00608,Quick Travel 608,Fuel,Los Angeles,California,USA,5,Active,191.12
+M00609,Nova Travel 609,Gaming,Miami,Florida,USA,40,Active,387.17
+M00610,Apex Mart 610,Healthcare,Hamburg,Hamburg,Germany,77,Active,56.35
+M00611,Global Foods 611,Jewelry,Cologne,North Rhine-Westphalia,Germany,74,Active,13.84
+M00612,Blue Travel 612,Money Transfer,San Francisco,California,USA,21,Active,23.17
+M00613,Metro Mart 613,Marketplace,Miami,Florida,USA,32,Active,67.33
+M00614,Metro Market 614,Travel,Pune,Maharashtra,India,47,Active,96.89
+M00615,Apex Market 615,Electronics,San Francisco,California,USA,76,Active,164.34
+M00616,Quick Tech 616,Crypto Exchange,Los Angeles,California,USA,86,Active,645.83
+M00617,Global Mart 617,Jewelry,San Francisco,California,USA,66,Active,126.18
+M00618,Metro Tech 618,Crypto Exchange,Liverpool,England,UK,41,Active,406.56
+M00619,Global Tech 619,Gaming,Manchester,England,UK,75,Active,129.75
+M00620,Blue Services 620,Fashion,Birmingham,England,UK,94,Active,193.41
+M00621,Urban Travel 621,Fuel,Chicago,Illinois,USA,40,Active,31.01
+M00622,Metro Tech 622,Fashion,Cologne,North Rhine-Westphalia,Germany,24,Active,89.03
+M00623,Quick Store 623,Healthcare,Birmingham,England,UK,92,Active,58.77
+M00624,Prime Market 624,Healthcare,Los Angeles,California,USA,75,Active,22.41
+M00625,Global Travel 625,Fuel,Delhi,Delhi,India,2,Active,79.78
+M00626,Blue Market 626,Marketplace,London,England,UK,6,Active,26.05
+M00627,Quick Market 627,Electronics,New York,New York,USA,25,Active,107.36
+M00628,Apex Tech 628,Marketplace,Birmingham,England,UK,77,Active,27.95
+M00629,Nova Market 629,Grocery,Dallas,Texas,USA,69,Active,154.31
+M00630,Quick Mart 630,Jewelry,Chennai,Tamil Nadu,India,51,Active,150.82
+M00631,Quick Foods 631,Electronics,Liverpool,England,UK,19,Active,230.41
+M00632,Prime Pay 632,Fashion,Dallas,Texas,USA,73,Active,104.25
+M00633,Prime Travel 633,Grocery,Delhi,Delhi,India,29,Active,51.79
+M00634,Blue Travel 634,Gaming,Chicago,Illinois,USA,49,Active,1343.08
+M00635,Nova Market 635,Marketplace,Miami,Florida,USA,53,Active,110.42
+M00636,Quick Travel 636,Grocery,Mumbai,Maharashtra,India,20,Active,215.42
+M00637,Apex Tech 637,Gaming,Cologne,North Rhine-Westphalia,Germany,13,Active,1010.99
+M00638,Metro Travel 638,Crypto Exchange,Dallas,Texas,USA,56,Active,50.48
+M00639,Metro Pay 639,Money Transfer,San Francisco,California,USA,75,Active,100.53
+M00640,Urban Mart 640,Gaming,Seattle,Washington,USA,38,Active,471.21
+M00641,Apex Tech 641,Restaurant,Chennai,Tamil Nadu,India,17,Active,49.71
+M00642,Prime Mart 642,Jewelry,Munich,Bavaria,Germany,56,Active,520.9
+M00643,Urban Mart 643,Marketplace,London,England,UK,13,Active,253.57
+M00644,Urban Tech 644,Electronics,Bengaluru,Karnataka,India,39,Active,75.35
+M00645,Global Foods 645,Restaurant,Delhi,Delhi,India,64,Active,679.99
+M00646,Blue Tech 646,Marketplace,Chicago,Illinois,USA,61,Active,112.69
+M00647,Quick Services 647,Fuel,Los Angeles,California,USA,28,Active,128.14
+M00648,Blue Foods 648,Restaurant,Chennai,Tamil Nadu,India,89,Active,116.89
+M00649,Blue Travel 649,Travel,London,England,UK,40,Active,102.29
+M00650,Prime Store 650,Marketplace,Cologne,North Rhine-Westphalia,Germany,85,Suspended,181.2
+M00651,Apex Foods 651,Money Transfer,London,England,UK,69,Active,127.27
+M00652,Nova Market 652,Marketplace,Hamburg,Hamburg,Germany,71,Active,136.03
+M00653,Quick Pay 653,Travel,Frankfurt,Hesse,Germany,43,Active,131.21
+M00654,Quick Services 654,Gaming,Los Angeles,California,USA,28,Active,583.18
+M00655,Apex Tech 655,Gaming,Berlin,Berlin,Germany,63,Active,58.11
+M00656,Nova Travel 656,Fuel,Birmingham,England,UK,86,Active,100.04
+M00657,Urban Foods 657,Fuel,Berlin,Berlin,Germany,20,Active,54.38
+M00658,Urban Market 658,Gaming,New York,New York,USA,66,Active,8.78
+M00659,Global Tech 659,Crypto Exchange,Cologne,North Rhine-Westphalia,Germany,61,Active,95.79
+M00660,Urban Mart 660,Crypto Exchange,Houston,Texas,USA,59,Active,153.26
+M00661,Urban Market 661,Fashion,Mumbai,Maharashtra,India,62,Active,2244.96
+M00662,Nova Services 662,Healthcare,Los Angeles,California,USA,81,Active,51.24
+M00663,Blue Tech 663,Electronics,Dallas,Texas,USA,28,Active,99.11
+M00664,Nova Mart 664,Fuel,Leeds,England,UK,99,Active,104.77
+M00665,Blue Foods 665,Crypto Exchange,Frankfurt,Hesse,Germany,53,Active,101.37
+M00666,Global Tech 666,Healthcare,Ahmedabad,Gujarat,India,56,Active,8.68
+M00667,Apex Store 667,Fuel,Kolkata,West Bengal,India,74,Active,83.61
+M00668,Metro Tech 668,Restaurant,Houston,Texas,USA,68,Active,52.21
+M00669,Prime Store 669,Gaming,Dallas,Texas,USA,22,Active,75.46
+M00670,Global Store 670,Healthcare,New York,New York,USA,58,Active,137.67
+M00671,Quick Travel 671,Grocery,Mumbai,Maharashtra,India,23,Active,246.22
+M00672,Apex Store 672,Marketplace,Hyderabad,Telangana,India,40,Active,121.73
+M00673,Prime Tech 673,Restaurant,Leeds,England,UK,39,Active,107.67
+M00674,Apex Services 674,Restaurant,Berlin,Berlin,Germany,88,Active,119.83
+M00675,Apex Store 675,Crypto Exchange,Houston,Texas,USA,74,Active,326.0
+M00676,Metro Tech 676,Healthcare,San Francisco,California,USA,12,Active,504.38
+M00677,Blue Tech 677,Gaming,New York,New York,USA,38,Active,46.51
+M00678,Apex Market 678,Crypto Exchange,Pune,Maharashtra,India,98,Active,119.66
+M00679,Metro Services 679,Gaming,Cologne,North Rhine-Westphalia,Germany,11,Active,928.3
+M00680,Nova Market 680,Gaming,Berlin,Berlin,Germany,60,Active,33.99
+M00681,Urban Store 681,Restaurant,Liverpool,England,UK,75,Active,37.12
+M00682,Blue Foods 682,Travel,Ahmedabad,Gujarat,India,10,Active,91.03
+M00683,Blue Tech 683,Fuel,Birmingham,England,UK,46,Active,49.14
+M00684,Urban Tech 684,Electronics,Hyderabad,Telangana,India,45,Active,111.84
+M00685,Global Travel 685,Gaming,Birmingham,England,UK,20,Active,61.54
+M00686,Nova Store 686,Marketplace,New York,New York,USA,56,Active,900.32
+M00687,Nova Store 687,Travel,Seattle,Washington,USA,82,Active,69.88
+M00688,Metro Mart 688,Grocery,Kolkata,West Bengal,India,79,Active,47.84
+M00689,Nova Store 689,Marketplace,Leeds,England,UK,58,Active,341.61
+M00690,Metro Market 690,Jewelry,Leeds,England,UK,36,Active,501.21
+M00691,Urban Market 691,Crypto Exchange,Bengaluru,Karnataka,India,16,Active,116.37
+M00692,Blue Mart 692,Jewelry,Seattle,Washington,USA,61,Active,21.43
+M00693,Global Pay 693,Money Transfer,Ahmedabad,Gujarat,India,21,Active,35.52
+M00694,Nova Pay 694,Fuel,Ahmedabad,Gujarat,India,67,Active,168.99
+M00695,Urban Foods 695,Jewelry,Ahmedabad,Gujarat,India,8,Active,215.7
+M00696,Metro Foods 696,Gaming,Delhi,Delhi,India,23,Active,271.24
+M00697,Blue Pay 697,Travel,Ahmedabad,Gujarat,India,12,Active,62.59
+M00698,Quick Pay 698,Money Transfer,Kolkata,West Bengal,India,27,Active,58.76
+M00699,Metro Tech 699,Jewelry,New York,New York,USA,91,Active,19.25
+M00700,Blue Services 700,Money Transfer,Berlin,Berlin,Germany,12,Active,56.29
+M00701,Blue Tech 701,Grocery,Delhi,Delhi,India,91,Active,416.93
+M00702,Blue Travel 702,Healthcare,Frankfurt,Hesse,Germany,39,Active,95.9
+M00703,Global Services 703,Money Transfer,Seattle,Washington,USA,77,Active,181.41
+M00704,Quick Market 704,Restaurant,Bengaluru,Karnataka,India,35,Active,117.57
+M00705,Urban Services 705,Jewelry,Frankfurt,Hesse,Germany,50,Active,104.96
+M00706,Nova Mart 706,Money Transfer,Leeds,England,UK,17,Active,119.54
+M00707,Quick Market 707,Travel,Liverpool,England,UK,25,Active,274.38
+M00708,Nova Pay 708,Grocery,Los Angeles,California,USA,55,Active,84.98
+M00709,Prime Pay 709,Travel,Hamburg,Hamburg,Germany,8,Suspended,61.38
+M00710,Nova Pay 710,Crypto Exchange,New York,New York,USA,24,Active,141.53
+M00711,Global Tech 711,Marketplace,Mumbai,Maharashtra,India,9,Active,264.14
+M00712,Blue Mart 712,Crypto Exchange,Manchester,England,UK,99,Active,86.49
+M00713,Urban Foods 713,Grocery,Houston,Texas,USA,72,Active,42.58
+M00714,Blue Market 714,Marketplace,Manchester,England,UK,23,Active,62.66
+M00715,Blue Market 715,Marketplace,New York,New York,USA,56,Active,57.1
+M00716,Prime Mart 716,Marketplace,Dallas,Texas,USA,25,Active,280.48
+M00717,Nova Tech 717,Jewelry,Munich,Bavaria,Germany,57,Active,179.74
+M00718,Blue Tech 718,Fuel,Mumbai,Maharashtra,India,53,Active,235.5
+M00719,Nova Foods 719,Healthcare,Miami,Florida,USA,37,Active,658.26
+M00720,Global Tech 720,Money Transfer,Dallas,Texas,USA,65,Active,127.3
+M00721,Global Market 721,Jewelry,Bengaluru,Karnataka,India,68,Active,165.86
+M00722,Quick Travel 722,Marketplace,Seattle,Washington,USA,12,Active,140.85
+M00723,Metro Foods 723,Fuel,Miami,Florida,USA,80,Active,62.43
+M00724,Nova Store 724,Fuel,Kolkata,West Bengal,India,69,Suspended,69.18
+M00725,Prime Services 725,Jewelry,Pune,Maharashtra,India,35,Active,87.67
+M00726,Quick Services 726,Marketplace,Miami,Florida,USA,55,Active,98.5
+M00727,Quick Pay 727,Electronics,Chennai,Tamil Nadu,India,73,Active,656.49
+M00728,Global Market 728,Travel,London,England,UK,27,Active,162.45
+M00729,Global Mart 729,Jewelry,Delhi,Delhi,India,6,Active,144.09
+M00730,Apex Services 730,Healthcare,Pune,Maharashtra,India,29,Active,150.02
+M00731,Blue Market 731,Gaming,New York,New York,USA,77,Active,140.02
+M00732,Nova Store 732,Fuel,Ahmedabad,Gujarat,India,55,Active,22.93
+M00733,Global Services 733,Money Transfer,Ahmedabad,Gujarat,India,59,Active,105.16
+M00734,Quick Mart 734,Marketplace,Munich,Bavaria,Germany,53,Active,29.92
+M00735,Urban Services 735,Gaming,Chennai,Tamil Nadu,India,28,Active,43.6
+M00736,Quick Tech 736,Money Transfer,Houston,Texas,USA,57,Active,71.51
+M00737,Nova Foods 737,Marketplace,Chennai,Tamil Nadu,India,30,Active,353.87
+M00738,Prime Tech 738,Crypto Exchange,Pune,Maharashtra,India,92,Active,215.9
+M00739,Prime Services 739,Restaurant,Manchester,England,UK,12,Active,146.46
+M00740,Global Travel 740,Gaming,Delhi,Delhi,India,17,Active,23.96
+M00741,Blue Pay 741,Fashion,Manchester,England,UK,7,Active,261.87
+M00742,Prime Store 742,Marketplace,Birmingham,England,UK,68,Suspended,68.05
+M00743,Apex Mart 743,Healthcare,Los Angeles,California,USA,61,Active,202.47
+M00744,Nova Mart 744,Electronics,Miami,Florida,USA,16,Active,128.19
+M00745,Quick Travel 745,Fuel,Kolkata,West Bengal,India,24,Active,287.1
+M00746,Quick Pay 746,Restaurant,Hyderabad,Telangana,India,45,Active,34.29
+M00747,Apex Pay 747,Gaming,Hyderabad,Telangana,India,37,Active,114.77
+M00748,Nova Services 748,Marketplace,Houston,Texas,USA,32,Active,298.34
+M00749,Global Pay 749,Healthcare,Cologne,North Rhine-Westphalia,Germany,46,Active,145.22
+M00750,Quick Market 750,Healthcare,Miami,Florida,USA,80,Active,114.72
+M00751,Urban Foods 751,Money Transfer,Hyderabad,Telangana,India,1,Active,40.32
+M00752,Metro Pay 752,Grocery,Kolkata,West Bengal,India,27,Active,128.44
+M00753,Apex Travel 753,Marketplace,Mumbai,Maharashtra,India,82,Active,517.24
+M00754,Metro Services 754,Travel,Kolkata,West Bengal,India,45,Active,214.87
+M00755,Global Store 755,Travel,San Francisco,California,USA,12,Active,282.62
+M00756,Blue Foods 756,Gaming,Hamburg,Hamburg,Germany,60,Active,83.19
+M00757,Prime Pay 757,Healthcare,Houston,Texas,USA,77,Active,104.85
+M00758,Nova Foods 758,Grocery,London,England,UK,35,Active,30.73
+M00759,Apex Store 759,Marketplace,Birmingham,England,UK,75,Active,554.29
+M00760,Metro Services 760,Healthcare,Chicago,Illinois,USA,51,Active,38.58
+M00761,Prime Store 761,Grocery,Hyderabad,Telangana,India,61,Active,156.69
+M00762,Global Travel 762,Electronics,Dallas,Texas,USA,99,Active,22.12
+M00763,Nova Pay 763,Jewelry,Houston,Texas,USA,33,Active,183.0
+M00764,Urban Market 764,Marketplace,Hyderabad,Telangana,India,56,Active,34.78
+M00765,Nova Tech 765,Healthcare,Pune,Maharashtra,India,28,Active,121.38
+M00766,Nova Pay 766,Money Transfer,Los Angeles,California,USA,37,Active,243.98
+M00767,Prime Services 767,Gaming,Liverpool,England,UK,8,Active,69.85
+M00768,Metro Market 768,Fashion,Seattle,Washington,USA,78,Active,344.4
+M00769,Quick Market 769,Grocery,Chennai,Tamil Nadu,India,28,Active,104.02
+M00770,Nova Market 770,Travel,Pune,Maharashtra,India,58,Active,104.1
+M00771,Blue Services 771,Restaurant,Seattle,Washington,USA,54,Active,224.81
+M00772,Nova Services 772,Travel,Seattle,Washington,USA,35,Active,178.75
+M00773,Prime Foods 773,Fashion,Manchester,England,UK,17,Active,25.66
+M00774,Global Tech 774,Gaming,Seattle,Washington,USA,65,Active,134.7
+M00775,Nova Services 775,Gaming,San Francisco,California,USA,29,Active,215.11
+M00776,Apex Foods 776,Gaming,Houston,Texas,USA,79,Active,90.69
+M00777,Quick Mart 777,Crypto Exchange,Manchester,England,UK,47,Active,396.21
+M00778,Apex Store 778,Restaurant,Hyderabad,Telangana,India,54,Active,513.78
+M00779,Urban Foods 779,Fuel,Chicago,Illinois,USA,10,Active,7.77
+M00780,Metro Tech 780,Electronics,Miami,Florida,USA,12,Active,95.5
+M00781,Apex Travel 781,Electronics,Miami,Florida,USA,95,Active,131.97
+M00782,Blue Foods 782,Fuel,Seattle,Washington,USA,80,Active,325.39
+M00783,Global Mart 783,Money Transfer,San Francisco,California,USA,51,Active,117.03
+M00784,Nova Pay 784,Travel,New York,New York,USA,52,Active,221.01
+M00785,Metro Travel 785,Fuel,Leeds,England,UK,59,Active,143.0
+M00786,Prime Tech 786,Grocery,Dallas,Texas,USA,35,Active,226.68
+M00787,Nova Mart 787,Restaurant,Miami,Florida,USA,52,Active,461.98
+M00788,Apex Foods 788,Grocery,Manchester,England,UK,78,Active,104.02
+M00789,Blue Travel 789,Marketplace,Chicago,Illinois,USA,13,Active,123.52
+M00790,Prime Store 790,Healthcare,Kolkata,West Bengal,India,35,Active,148.38
+M00791,Blue Travel 791,Money Transfer,San Francisco,California,USA,49,Active,473.12
+M00792,Blue Tech 792,Travel,Mumbai,Maharashtra,India,34,Active,109.01
+M00793,Nova Travel 793,Gaming,Dallas,Texas,USA,8,Active,75.34
+M00794,Metro Travel 794,Fashion,Miami,Florida,USA,39,Active,260.43
+M00795,Prime Pay 795,Travel,Frankfurt,Hesse,Germany,84,Active,259.5
+M00796,Urban Store 796,Marketplace,Frankfurt,Hesse,Germany,43,Active,406.57
+M00797,Global Mart 797,Crypto Exchange,Kolkata,West Bengal,India,43,Active,31.49
+M00798,Urban Mart 798,Fuel,San Francisco,California,USA,81,Active,404.03
+M00799,Nova Foods 799,Electronics,Liverpool,England,UK,79,Active,55.47
+M00800,Blue Store 800,Fuel,Cologne,North Rhine-Westphalia,Germany,1,Active,326.21
+M00801,Blue Tech 801,Grocery,Chicago,Illinois,USA,64,Active,511.14
+M00802,Blue Tech 802,Healthcare,Miami,Florida,USA,12,Active,137.08
+M00803,Global Pay 803,Electronics,Mumbai,Maharashtra,India,87,Active,174.62
+M00804,Urban Services 804,Fuel,Chicago,Illinois,USA,91,Active,65.87
+M00805,Global Market 805,Fashion,Hamburg,Hamburg,Germany,76,Active,198.62
+M00806,Prime Foods 806,Healthcare,Manchester,England,UK,91,Active,31.27
+M00807,Prime Services 807,Fuel,San Francisco,California,USA,15,Active,159.64
+M00808,Nova Travel 808,Restaurant,Houston,Texas,USA,21,Active,503.58
+M00809,Urban Store 809,Crypto Exchange,Hamburg,Hamburg,Germany,27,Active,30.69
+M00810,Apex Foods 810,Crypto Exchange,Hyderabad,Telangana,India,9,Active,204.39
+M00811,Quick Market 811,Fashion,Los Angeles,California,USA,84,Active,54.04
+M00812,Prime Tech 812,Jewelry,Mumbai,Maharashtra,India,55,Active,58.38
+M00813,Nova Store 813,Crypto Exchange,Los Angeles,California,USA,51,Active,594.58
+M00814,Prime Pay 814,Healthcare,Leeds,England,UK,28,Active,28.3
+M00815,Nova Market 815,Travel,Hamburg,Hamburg,Germany,20,Active,76.64
+M00816,Urban Store 816,Travel,Birmingham,England,UK,5,Active,433.62
+M00817,Metro Store 817,Fashion,Houston,Texas,USA,53,Active,236.69
+M00818,Quick Tech 818,Gaming,Frankfurt,Hesse,Germany,76,Active,259.45
+M00819,Prime Mart 819,Crypto Exchange,Manchester,England,UK,12,Active,161.66
+M00820,Urban Foods 820,Jewelry,Dallas,Texas,USA,97,Active,290.42
+M00821,Blue Foods 821,Restaurant,Los Angeles,California,USA,8,Active,98.29
+M00822,Prime Travel 822,Travel,Birmingham,England,UK,88,Active,110.64
+M00823,Global Mart 823,Healthcare,Hyderabad,Telangana,India,50,Active,30.36
+M00824,Prime Travel 824,Fashion,Miami,Florida,USA,52,Active,46.66
+M00825,Nova Store 825,Travel,Kolkata,West Bengal,India,77,Active,123.61
+M00826,Prime Mart 826,Electronics,Birmingham,England,UK,67,Active,42.73
+M00827,Global Mart 827,Healthcare,Miami,Florida,USA,78,Active,29.32
+M00828,Nova Travel 828,Travel,Berlin,Berlin,Germany,87,Active,48.35
+M00829,Blue Foods 829,Gaming,Birmingham,England,UK,3,Active,56.31
+M00830,Apex Travel 830,Restaurant,Chicago,Illinois,USA,90,Active,81.29
+M00831,Apex Tech 831,Jewelry,Cologne,North Rhine-Westphalia,Germany,66,Active,125.76
+M00832,Quick Services 832,Jewelry,Seattle,Washington,USA,39,Active,408.16
+M00833,Metro Foods 833,Fuel,New York,New York,USA,49,Active,109.65
+M00834,Nova Foods 834,Jewelry,London,England,UK,38,Active,1072.04
+M00835,Global Pay 835,Crypto Exchange,Munich,Bavaria,Germany,78,Active,220.07
+M00836,Global Mart 836,Gaming,Bengaluru,Karnataka,India,43,Active,31.81
+M00837,Blue Store 837,Restaurant,Delhi,Delhi,India,34,Active,170.56
+M00838,Urban Services 838,Fuel,Liverpool,England,UK,18,Active,15.84
+M00839,Metro Pay 839,Crypto Exchange,Seattle,Washington,USA,1,Active,451.62
+M00840,Metro Store 840,Grocery,Chicago,Illinois,USA,10,Active,65.74
+M00841,Quick Mart 841,Fuel,San Francisco,California,USA,46,Active,169.86
+M00842,Prime Foods 842,Crypto Exchange,Los Angeles,California,USA,88,Active,45.93
+M00843,Blue Travel 843,Fashion,Pune,Maharashtra,India,39,Active,32.8
+M00844,Apex Tech 844,Travel,New York,New York,USA,57,Active,63.09
+M00845,Nova Services 845,Travel,London,England,UK,90,Active,317.78
+M00846,Prime Store 846,Restaurant,Bengaluru,Karnataka,India,88,Active,38.92
+M00847,Prime Tech 847,Healthcare,Bengaluru,Karnataka,India,66,Active,254.53
+M00848,Global Travel 848,Fashion,Chicago,Illinois,USA,59,Active,19.52
+M00849,Urban Foods 849,Fashion,Mumbai,Maharashtra,India,69,Active,72.02
+M00850,Nova Store 850,Gaming,Miami,Florida,USA,4,Active,353.82
+M00851,Metro Foods 851,Grocery,Frankfurt,Hesse,Germany,18,Active,175.13
+M00852,Apex Mart 852,Grocery,Leeds,England,UK,19,Active,158.93
+M00853,Blue Tech 853,Travel,New York,New York,USA,98,Active,97.86
+M00854,Prime Pay 854,Marketplace,Seattle,Washington,USA,51,Active,27.39
+M00855,Blue Foods 855,Gaming,Pune,Maharashtra,India,9,Active,42.22
+M00856,Nova Foods 856,Money Transfer,Delhi,Delhi,India,5,Active,65.42
+M00857,Urban Store 857,Restaurant,Leeds,England,UK,4,Active,144.64
+M00858,Prime Pay 858,Restaurant,Delhi,Delhi,India,93,Active,59.61
+M00859,Apex Foods 859,Fuel,Los Angeles,California,USA,40,Active,286.05
+M00860,Nova Store 860,Money Transfer,Mumbai,Maharashtra,India,44,Active,30.12
+M00861,Nova Foods 861,Jewelry,New York,New York,USA,89,Active,143.56
+M00862,Urban Tech 862,Grocery,London,England,UK,28,Active,322.62
+M00863,Prime Services 863,Marketplace,Cologne,North Rhine-Westphalia,Germany,18,Active,265.44
+M00864,Nova Travel 864,Restaurant,San Francisco,California,USA,37,Active,168.12
+M00865,Nova Pay 865,Money Transfer,Miami,Florida,USA,87,Active,18.15
+M00866,Apex Mart 866,Electronics,Liverpool,England,UK,83,Active,93.82
+M00867,Metro Services 867,Marketplace,Bengaluru,Karnataka,India,75,Active,454.43
+M00868,Nova Mart 868,Marketplace,Ahmedabad,Gujarat,India,2,Active,98.51
+M00869,Apex Pay 869,Electronics,Leeds,England,UK,98,Active,65.22
+M00870,Apex Travel 870,Healthcare,Frankfurt,Hesse,Germany,61,Active,306.0
+M00871,Metro Market 871,Fashion,Chennai,Tamil Nadu,India,54,Active,106.41
+M00872,Nova Store 872,Healthcare,Delhi,Delhi,India,51,Active,252.76
+M00873,Prime Travel 873,Healthcare,Hamburg,Hamburg,Germany,90,Active,197.25
+M00874,Global Market 874,Fuel,Seattle,Washington,USA,91,Active,51.75
+M00875,Metro Store 875,Travel,New York,New York,USA,59,Active,280.89
+M00876,Global Tech 876,Gaming,Frankfurt,Hesse,Germany,97,Active,119.55
+M00877,Global Tech 877,Travel,San Francisco,California,USA,90,Active,194.25
+M00878,Metro Pay 878,Money Transfer,San Francisco,California,USA,32,Active,487.19
+M00879,Prime Store 879,Electronics,London,England,UK,42,Active,238.46
+M00880,Nova Foods 880,Restaurant,Manchester,England,UK,7,Active,171.86
+M00881,Prime Services 881,Jewelry,Munich,Bavaria,Germany,81,Active,46.85
+M00882,Metro Market 882,Fuel,Hyderabad,Telangana,India,98,Active,30.18
+M00883,Nova Tech 883,Marketplace,Chicago,Illinois,USA,14,Active,827.27
+M00884,Metro Mart 884,Money Transfer,Houston,Texas,USA,27,Active,77.79
+M00885,Quick Market 885,Jewelry,New York,New York,USA,47,Active,288.14
+M00886,Prime Tech 886,Grocery,Frankfurt,Hesse,Germany,88,Active,78.78
+M00887,Apex Tech 887,Travel,Dallas,Texas,USA,46,Active,15.56
+M00888,Metro Market 888,Grocery,Delhi,Delhi,India,21,Active,48.05
+M00889,Prime Pay 889,Electronics,Los Angeles,California,USA,61,Active,78.4
+M00890,Global Foods 890,Fuel,Miami,Florida,USA,32,Active,243.68
+M00891,Metro Pay 891,Travel,San Francisco,California,USA,12,Active,129.03
+M00892,Blue Pay 892,Crypto Exchange,Liverpool,England,UK,43,Active,261.1
+M00893,Urban Mart 893,Electronics,Kolkata,West Bengal,India,96,Active,423.83
+M00894,Nova Mart 894,Gaming,Houston,Texas,USA,27,Active,59.71
+M00895,Global Services 895,Fuel,Chicago,Illinois,USA,34,Active,57.09
+M00896,Metro Services 896,Fuel,Bengaluru,Karnataka,India,8,Active,38.65
+M00897,Apex Foods 897,Crypto Exchange,Delhi,Delhi,India,22,Active,44.71
+M00898,Global Pay 898,Grocery,Munich,Bavaria,Germany,70,Active,120.67
+M00899,Apex Services 899,Fuel,Hamburg,Hamburg,Germany,99,Active,25.07
+M00900,Blue Services 900,Restaurant,Frankfurt,Hesse,Germany,18,Active,189.78
+M00901,Apex Tech 901,Crypto Exchange,Pune,Maharashtra,India,55,Active,304.41
+M00902,Prime Mart 902,Money Transfer,Ahmedabad,Gujarat,India,60,Active,122.07
+M00903,Blue Pay 903,Restaurant,Birmingham,England,UK,78,Active,61.22
+M00904,Metro Mart 904,Marketplace,Los Angeles,California,USA,68,Active,106.14
+M00905,Metro Pay 905,Crypto Exchange,Berlin,Berlin,Germany,38,Active,183.89
+M00906,Quick Mart 906,Marketplace,Kolkata,West Bengal,India,79,Active,122.59
+M00907,Metro Foods 907,Electronics,Cologne,North Rhine-Westphalia,Germany,98,Active,37.2
+M00908,Metro Market 908,Fashion,Bengaluru,Karnataka,India,8,Active,39.06
+M00909,Metro Store 909,Gaming,Berlin,Berlin,Germany,64,Active,134.78
+M00910,Quick Pay 910,Travel,Seattle,Washington,USA,50,Active,406.29
+M00911,Quick Store 911,Fashion,Ahmedabad,Gujarat,India,14,Active,199.52
+M00912,Urban Foods 912,Fuel,Hamburg,Hamburg,Germany,85,Active,95.01
+M00913,Metro Foods 913,Restaurant,San Francisco,California,USA,92,Active,28.96
+M00914,Quick Tech 914,Grocery,Munich,Bavaria,Germany,42,Active,181.55
+M00915,Metro Tech 915,Restaurant,Dallas,Texas,USA,67,Active,91.25
+M00916,Metro Mart 916,Marketplace,Hyderabad,Telangana,India,71,Active,49.88
+M00917,Quick Mart 917,Fashion,Kolkata,West Bengal,India,73,Active,45.37
+M00918,Metro Tech 918,Grocery,San Francisco,California,USA,68,Active,41.49
+M00919,Nova Tech 919,Grocery,Chicago,Illinois,USA,10,Active,34.76
+M00920,Prime Foods 920,Healthcare,Chennai,Tamil Nadu,India,11,Active,448.45
+M00921,Metro Store 921,Grocery,Seattle,Washington,USA,23,Active,67.64
+M00922,Nova Mart 922,Fuel,Dallas,Texas,USA,93,Active,24.1
+M00923,Apex Pay 923,Crypto Exchange,Manchester,England,UK,72,Active,189.97
+M00924,Urban Store 924,Electronics,Chennai,Tamil Nadu,India,3,Active,111.94
+M00925,Apex Foods 925,Crypto Exchange,Birmingham,England,UK,22,Active,87.2
+M00926,Metro Store 926,Crypto Exchange,Chennai,Tamil Nadu,India,3,Active,21.84
+M00927,Quick Tech 927,Healthcare,Berlin,Berlin,Germany,42,Active,32.04
+M00928,Global Pay 928,Marketplace,Chicago,Illinois,USA,31,Active,16.38
+M00929,Blue Travel 929,Grocery,Liverpool,England,UK,84,Active,104.74
+M00930,Apex Foods 930,Fashion,Chicago,Illinois,USA,47,Active,61.05
+M00931,Global Foods 931,Grocery,Birmingham,England,UK,69,Active,54.66
+M00932,Prime Market 932,Restaurant,San Francisco,California,USA,37,Active,18.5
+M00933,Blue Travel 933,Fuel,Munich,Bavaria,Germany,93,Active,82.42
+M00934,Prime Foods 934,Money Transfer,Leeds,England,UK,76,Active,41.86
+M00935,Urban Foods 935,Restaurant,Los Angeles,California,USA,82,Active,101.52
+M00936,Urban Foods 936,Electronics,Hyderabad,Telangana,India,75,Active,24.81
+M00937,Quick Market 937,Travel,Frankfurt,Hesse,Germany,78,Active,51.47
+M00938,Quick Store 938,Electronics,Chicago,Illinois,USA,14,Active,137.39
+M00939,Quick Services 939,Crypto Exchange,Frankfurt,Hesse,Germany,22,Active,380.24
+M00940,Metro Tech 940,Restaurant,Chicago,Illinois,USA,95,Active,30.88
+M00941,Prime Foods 941,Jewelry,London,England,UK,35,Active,35.25
+M00942,Urban Foods 942,Money Transfer,Pune,Maharashtra,India,60,Active,18.36
+M00943,Urban Store 943,Grocery,Ahmedabad,Gujarat,India,2,Active,144.7
+M00944,Blue Store 944,Restaurant,Leeds,England,UK,78,Active,289.88
+M00945,Apex Tech 945,Money Transfer,Berlin,Berlin,Germany,56,Active,32.85
+M00946,Blue Mart 946,Electronics,Houston,Texas,USA,75,Active,358.77
+M00947,Quick Mart 947,Crypto Exchange,Manchester,England,UK,50,Active,33.55
+M00948,Quick Services 948,Marketplace,Dallas,Texas,USA,44,Active,26.18
+M00949,Global Foods 949,Fuel,San Francisco,California,USA,40,Active,88.25
+M00950,Blue Services 950,Fuel,Liverpool,England,UK,22,Active,66.4
+M00951,Quick Services 951,Grocery,Ahmedabad,Gujarat,India,27,Active,136.94
+M00952,Nova Foods 952,Travel,Hyderabad,Telangana,India,53,Active,186.88
+M00953,Prime Pay 953,Electronics,Pune,Maharashtra,India,77,Active,759.59
+M00954,Urban Tech 954,Jewelry,Chicago,Illinois,USA,9,Active,115.56
+M00955,Blue Travel 955,Grocery,Seattle,Washington,USA,53,Active,48.75
+M00956,Quick Pay 956,Fashion,Liverpool,England,UK,66,Active,150.78
+M00957,Nova Market 957,Electronics,Leeds,England,UK,58,Suspended,64.29
+M00958,Apex Travel 958,Electronics,Cologne,North Rhine-Westphalia,Germany,48,Active,311.15
+M00959,Urban Store 959,Marketplace,London,England,UK,69,Active,442.27
+M00960,Apex Foods 960,Money Transfer,Los Angeles,California,USA,92,Active,147.77
+M00961,Global Travel 961,Travel,Miami,Florida,USA,81,Active,173.41
+M00962,Urban Services 962,Electronics,Houston,Texas,USA,57,Active,190.82
+M00963,Prime Mart 963,Electronics,San Francisco,California,USA,91,Active,375.47
+M00964,Apex Foods 964,Gaming,Kolkata,West Bengal,India,29,Active,79.69
+M00965,Nova Pay 965,Jewelry,Frankfurt,Hesse,Germany,80,Active,192.33
+M00966,Metro Services 966,Crypto Exchange,Mumbai,Maharashtra,India,34,Active,159.0
+M00967,Quick Tech 967,Crypto Exchange,Delhi,Delhi,India,38,Active,635.74
+M00968,Quick Pay 968,Fuel,Hyderabad,Telangana,India,15,Active,27.36
+M00969,Metro Store 969,Restaurant,Dallas,Texas,USA,68,Active,81.51
+M00970,Urban Mart 970,Marketplace,San Francisco,California,USA,54,Active,91.7
+M00971,Nova Foods 971,Money Transfer,Berlin,Berlin,Germany,58,Active,75.16
+M00972,Urban Foods 972,Travel,Delhi,Delhi,India,33,Active,273.99
+M00973,Metro Market 973,Electronics,Liverpool,England,UK,75,Active,610.47
+M00974,Urban Store 974,Gaming,Frankfurt,Hesse,Germany,51,Active,209.59
+M00975,Apex Tech 975,Marketplace,San Francisco,California,USA,66,Active,492.93
+M00976,Global Services 976,Gaming,New York,New York,USA,66,Active,301.07
+M00977,Urban Tech 977,Healthcare,Hamburg,Hamburg,Germany,87,Active,170.26
+M00978,Nova Foods 978,Healthcare,Dallas,Texas,USA,69,Active,228.29
+M00979,Urban Tech 979,Crypto Exchange,Los Angeles,California,USA,72,Active,62.32
+M00980,Nova Services 980,Gaming,Seattle,Washington,USA,65,Active,49.73
+M00981,Prime Tech 981,Gaming,Manchester,England,UK,4,Active,441.32
+M00982,Metro Travel 982,Grocery,New York,New York,USA,79,Active,83.39
+M00983,Urban Market 983,Healthcare,Munich,Bavaria,Germany,42,Active,65.43
+M00984,Apex Store 984,Fuel,Pune,Maharashtra,India,86,Active,49.9
+M00985,Quick Travel 985,Fuel,Chicago,Illinois,USA,55,Active,105.24
+M00986,Prime Travel 986,Money Transfer,Berlin,Berlin,Germany,6,Active,23.65
+M00987,Blue Travel 987,Jewelry,London,England,UK,77,Active,93.28
+M00988,Apex Tech 988,Grocery,Cologne,North Rhine-Westphalia,Germany,82,Active,101.16
+M00989,Global Travel 989,Healthcare,Kolkata,West Bengal,India,78,Active,30.56
+M00990,Apex Services 990,Marketplace,Los Angeles,California,USA,15,Active,198.75
+M00991,Quick Pay 991,Crypto Exchange,Houston,Texas,USA,45,Active,240.34
+M00992,Apex Mart 992,Marketplace,London,England,UK,35,Active,647.6
+M00993,Urban Market 993,Grocery,London,England,UK,14,Active,31.92
+M00994,Global Store 994,Gaming,New York,New York,USA,93,Active,102.2
+M00995,Urban Services 995,Crypto Exchange,San Francisco,California,USA,35,Active,45.01
+M00996,Global Tech 996,Fashion,London,England,UK,49,Active,64.84
+M00997,Prime Store 997,Electronics,Chicago,Illinois,USA,62,Active,53.18
+M00998,Urban Tech 998,Marketplace,London,England,UK,43,Active,34.2
+M00999,Apex Market 999,Fashion,Dallas,Texas,USA,24,Active,55.17
+M01000,Blue Tech 1000,Grocery,Miami,Florida,USA,38,Active,101.41

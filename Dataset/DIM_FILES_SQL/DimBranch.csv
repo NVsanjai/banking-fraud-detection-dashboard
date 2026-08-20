@@ -1,0 +1,101 @@
+﻿BranchID,BankID,BranchName,City,State,Region,RiskRating
+B01001,1,JPMorgan Chase New York Branch 1,New York,New York,North America,High
+B01002,1,JPMorgan Chase Los Angeles Branch 2,Los Angeles,California,North America,Low
+B01003,1,JPMorgan Chase Chicago Branch 3,Chicago,Illinois,North America,Medium
+B01004,1,JPMorgan Chase Houston Branch 4,Houston,Texas,North America,Low
+B01005,1,JPMorgan Chase Dallas Branch 5,Dallas,Texas,North America,Low
+B01006,1,JPMorgan Chase San Francisco Branch 6,San Francisco,California,North America,High
+B01007,1,JPMorgan Chase Miami Branch 7,Miami,Florida,North America,Low
+B01008,1,JPMorgan Chase Seattle Branch 8,Seattle,Washington,North America,High
+B01009,1,JPMorgan Chase New York Branch 9,New York,New York,North America,Low
+B01010,1,JPMorgan Chase Los Angeles Branch 10,Los Angeles,California,North America,Low
+B02001,2,Bank of America New York Branch 1,New York,New York,North America,Low
+B02002,2,Bank of America Los Angeles Branch 2,Los Angeles,California,North America,Medium
+B02003,2,Bank of America Chicago Branch 3,Chicago,Illinois,North America,High
+B02004,2,Bank of America Houston Branch 4,Houston,Texas,North America,Medium
+B02005,2,Bank of America Dallas Branch 5,Dallas,Texas,North America,High
+B02006,2,Bank of America San Francisco Branch 6,San Francisco,California,North America,High
+B02007,2,Bank of America Miami Branch 7,Miami,Florida,North America,High
+B02008,2,Bank of America Seattle Branch 8,Seattle,Washington,North America,Medium
+B02009,2,Bank of America New York Branch 9,New York,New York,North America,Low
+B02010,2,Bank of America Los Angeles Branch 10,Los Angeles,California,North America,Low
+B03001,3,Wells Fargo New York Branch 1,New York,New York,North America,Low
+B03002,3,Wells Fargo Los Angeles Branch 2,Los Angeles,California,North America,Low
+B03003,3,Wells Fargo Chicago Branch 3,Chicago,Illinois,North America,High
+B03004,3,Wells Fargo Houston Branch 4,Houston,Texas,North America,Low
+B03005,3,Wells Fargo Dallas Branch 5,Dallas,Texas,North America,Low
+B03006,3,Wells Fargo San Francisco Branch 6,San Francisco,California,North America,Medium
+B03007,3,Wells Fargo Miami Branch 7,Miami,Florida,North America,High
+B03008,3,Wells Fargo Seattle Branch 8,Seattle,Washington,North America,High
+B03009,3,Wells Fargo New York Branch 9,New York,New York,North America,Low
+B03010,3,Wells Fargo Los Angeles Branch 10,Los Angeles,California,North America,Low
+B04001,4,Citigroup New York Branch 1,New York,New York,North America,Medium
+B04002,4,Citigroup Los Angeles Branch 2,Los Angeles,California,North America,Low
+B04003,4,Citigroup Chicago Branch 3,Chicago,Illinois,North America,Low
+B04004,4,Citigroup Houston Branch 4,Houston,Texas,North America,Low
+B04005,4,Citigroup Dallas Branch 5,Dallas,Texas,North America,High
+B04006,4,Citigroup San Francisco Branch 6,San Francisco,California,North America,Medium
+B04007,4,Citigroup Miami Branch 7,Miami,Florida,North America,High
+B04008,4,Citigroup Seattle Branch 8,Seattle,Washington,North America,High
+B04009,4,Citigroup New York Branch 9,New York,New York,North America,High
+B04010,4,Citigroup Los Angeles Branch 10,Los Angeles,California,North America,Low
+B05001,5,HSBC London Branch 1,London,England,Europe,High
+B05002,5,HSBC Manchester Branch 2,Manchester,England,Europe,Low
+B05003,5,HSBC Birmingham Branch 3,Birmingham,England,Europe,Low
+B05004,5,HSBC Liverpool Branch 4,Liverpool,England,Europe,Medium
+B05005,5,HSBC Leeds Branch 5,Leeds,England,Europe,Low
+B05006,5,HSBC London Branch 6,London,England,Europe,Low
+B05007,5,HSBC Manchester Branch 7,Manchester,England,Europe,Low
+B05008,5,HSBC Birmingham Branch 8,Birmingham,England,Europe,High
+B05009,5,HSBC Liverpool Branch 9,Liverpool,England,Europe,Low
+B05010,5,HSBC Leeds Branch 10,Leeds,England,Europe,Low
+B06001,6,Barclays London Branch 1,London,England,Europe,High
+B06002,6,Barclays Manchester Branch 2,Manchester,England,Europe,Low
+B06003,6,Barclays Birmingham Branch 3,Birmingham,England,Europe,High
+B06004,6,Barclays Liverpool Branch 4,Liverpool,England,Europe,High
+B06005,6,Barclays Leeds Branch 5,Leeds,England,Europe,Medium
+B06006,6,Barclays London Branch 6,London,England,Europe,Low
+B06007,6,Barclays Manchester Branch 7,Manchester,England,Europe,Low
+B06008,6,Barclays Birmingham Branch 8,Birmingham,England,Europe,Low
+B06009,6,Barclays Liverpool Branch 9,Liverpool,England,Europe,Medium
+B06010,6,Barclays Leeds Branch 10,Leeds,England,Europe,Low
+B07001,7,Deutsche Bank Berlin Branch 1,Berlin,Berlin,Europe,Low
+B07002,7,Deutsche Bank Munich Branch 2,Munich,Bavaria,Europe,Low
+B07003,7,Deutsche Bank Frankfurt Branch 3,Frankfurt,Hesse,Europe,Medium
+B07004,7,Deutsche Bank Hamburg Branch 4,Hamburg,Hamburg,Europe,Low
+B07005,7,Deutsche Bank Cologne Branch 5,Cologne,North Rhine-Westphalia,Europe,Medium
+B07006,7,Deutsche Bank Berlin Branch 6,Berlin,Berlin,Europe,Low
+B07007,7,Deutsche Bank Munich Branch 7,Munich,Bavaria,Europe,Low
+B07008,7,Deutsche Bank Frankfurt Branch 8,Frankfurt,Hesse,Europe,Low
+B07009,7,Deutsche Bank Hamburg Branch 9,Hamburg,Hamburg,Europe,High
+B07010,7,Deutsche Bank Cologne Branch 10,Cologne,North Rhine-Westphalia,Europe,Low
+B08001,8,ICICI Bank Mumbai Branch 1,Mumbai,Maharashtra,Asia,Low
+B08002,8,ICICI Bank Delhi Branch 2,Delhi,Delhi,Asia,Medium
+B08003,8,ICICI Bank Bengaluru Branch 3,Bengaluru,Karnataka,Asia,Medium
+B08004,8,ICICI Bank Chennai Branch 4,Chennai,Tamil Nadu,Asia,Medium
+B08005,8,ICICI Bank Hyderabad Branch 5,Hyderabad,Telangana,Asia,High
+B08006,8,ICICI Bank Pune Branch 6,Pune,Maharashtra,Asia,Low
+B08007,8,ICICI Bank Kolkata Branch 7,Kolkata,West Bengal,Asia,High
+B08008,8,ICICI Bank Ahmedabad Branch 8,Ahmedabad,Gujarat,Asia,Low
+B08009,8,ICICI Bank Mumbai Branch 9,Mumbai,Maharashtra,Asia,High
+B08010,8,ICICI Bank Delhi Branch 10,Delhi,Delhi,Asia,Medium
+B09001,9,HDFC Bank Mumbai Branch 1,Mumbai,Maharashtra,Asia,Medium
+B09002,9,HDFC Bank Delhi Branch 2,Delhi,Delhi,Asia,High
+B09003,9,HDFC Bank Bengaluru Branch 3,Bengaluru,Karnataka,Asia,High
+B09004,9,HDFC Bank Chennai Branch 4,Chennai,Tamil Nadu,Asia,High
+B09005,9,HDFC Bank Hyderabad Branch 5,Hyderabad,Telangana,Asia,Medium
+B09006,9,HDFC Bank Pune Branch 6,Pune,Maharashtra,Asia,Low
+B09007,9,HDFC Bank Kolkata Branch 7,Kolkata,West Bengal,Asia,Low
+B09008,9,HDFC Bank Ahmedabad Branch 8,Ahmedabad,Gujarat,Asia,Low
+B09009,9,HDFC Bank Mumbai Branch 9,Mumbai,Maharashtra,Asia,High
+B09010,9,HDFC Bank Delhi Branch 10,Delhi,Delhi,Asia,Low
+B10001,10,State Bank of India Mumbai Branch 1,Mumbai,Maharashtra,Asia,Low
+B10002,10,State Bank of India Delhi Branch 2,Delhi,Delhi,Asia,Low
+B10003,10,State Bank of India Bengaluru Branch 3,Bengaluru,Karnataka,Asia,Medium
+B10004,10,State Bank of India Chennai Branch 4,Chennai,Tamil Nadu,Asia,Medium
+B10005,10,State Bank of India Hyderabad Branch 5,Hyderabad,Telangana,Asia,High
+B10006,10,State Bank of India Pune Branch 6,Pune,Maharashtra,Asia,Low
+B10007,10,State Bank of India Kolkata Branch 7,Kolkata,West Bengal,Asia,Low
+B10008,10,State Bank of India Ahmedabad Branch 8,Ahmedabad,Gujarat,Asia,Low
+B10009,10,State Bank of India Mumbai Branch 9,Mumbai,Maharashtra,Asia,Low
+B10010,10,State Bank of India Delhi Branch 10,Delhi,Delhi,Asia,Low

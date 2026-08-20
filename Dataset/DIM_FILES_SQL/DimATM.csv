@@ -1,0 +1,251 @@
+﻿ATMID,BranchID,BankID,ATMType,City,State,RiskRating
+A00001,B01001,1,Drive-through,New York,New York,Low
+A00002,B01001,1,On-site,New York,New York,High
+A00003,B01001,1,On-site,New York,New York,Low
+A00004,B01002,1,Drive-through,Los Angeles,California,Low
+A00005,B01002,1,Drive-through,Los Angeles,California,High
+A00006,B01002,1,Drive-through,Los Angeles,California,High
+A00007,B01003,1,On-site,Chicago,Illinois,High
+A00008,B01003,1,Off-site,Chicago,Illinois,High
+A00009,B01003,1,Off-site,Chicago,Illinois,Medium
+A00010,B01004,1,Drive-through,Houston,Texas,Low
+A00011,B01004,1,Drive-through,Houston,Texas,Medium
+A00012,B01004,1,On-site,Houston,Texas,Medium
+A00013,B01005,1,Drive-through,Dallas,Texas,Medium
+A00014,B01005,1,Drive-through,Dallas,Texas,Medium
+A00015,B01005,1,Drive-through,Dallas,Texas,Medium
+A00016,B01006,1,On-site,San Francisco,California,Low
+A00017,B01006,1,Off-site,San Francisco,California,Medium
+A00018,B01007,1,Off-site,Miami,Florida,Low
+A00019,B01007,1,Off-site,Miami,Florida,Medium
+A00020,B01008,1,Drive-through,Seattle,Washington,Medium
+A00021,B01008,1,Off-site,Seattle,Washington,Medium
+A00022,B01009,1,On-site,New York,New York,Medium
+A00023,B01009,1,Drive-through,New York,New York,High
+A00024,B01009,1,Drive-through,New York,New York,High
+A00025,B01010,1,Drive-through,Los Angeles,California,Medium
+A00026,B01010,1,Off-site,Los Angeles,California,Medium
+A00027,B02001,2,Off-site,New York,New York,Medium
+A00028,B02001,2,On-site,New York,New York,High
+A00029,B02001,2,Off-site,New York,New York,Medium
+A00030,B02002,2,On-site,Los Angeles,California,Medium
+A00031,B02002,2,On-site,Los Angeles,California,Medium
+A00032,B02002,2,On-site,Los Angeles,California,Low
+A00033,B02003,2,Off-site,Chicago,Illinois,High
+A00034,B02003,2,Drive-through,Chicago,Illinois,Low
+A00035,B02003,2,Drive-through,Chicago,Illinois,Medium
+A00036,B02004,2,Off-site,Houston,Texas,Medium
+A00037,B02004,2,Off-site,Houston,Texas,Low
+A00038,B02005,2,Drive-through,Dallas,Texas,Low
+A00039,B02005,2,Drive-through,Dallas,Texas,High
+A00040,B02005,2,On-site,Dallas,Texas,High
+A00041,B02006,2,Off-site,San Francisco,California,High
+A00042,B02006,2,Drive-through,San Francisco,California,High
+A00043,B02006,2,Drive-through,San Francisco,California,High
+A00044,B02007,2,Drive-through,Miami,Florida,Medium
+A00045,B02007,2,On-site,Miami,Florida,Low
+A00046,B02008,2,On-site,Seattle,Washington,Low
+A00047,B02008,2,On-site,Seattle,Washington,Medium
+A00048,B02008,2,On-site,Seattle,Washington,Medium
+A00049,B02009,2,Drive-through,New York,New York,Medium
+A00050,B02009,2,Drive-through,New York,New York,High
+A00051,B02010,2,Off-site,Los Angeles,California,Medium
+A00052,B02010,2,On-site,Los Angeles,California,Medium
+A00053,B02010,2,On-site,Los Angeles,California,High
+A00054,B03001,3,Drive-through,New York,New York,Low
+A00055,B03001,3,Drive-through,New York,New York,Low
+A00056,B03002,3,Drive-through,Los Angeles,California,Medium
+A00057,B03002,3,Drive-through,Los Angeles,California,High
+A00058,B03002,3,On-site,Los Angeles,California,Medium
+A00059,B03003,3,Drive-through,Chicago,Illinois,High
+A00060,B03003,3,Drive-through,Chicago,Illinois,High
+A00061,B03004,3,Drive-through,Houston,Texas,Medium
+A00062,B03004,3,Off-site,Houston,Texas,Medium
+A00063,B03005,3,Drive-through,Dallas,Texas,Low
+A00064,B03005,3,On-site,Dallas,Texas,High
+A00065,B03006,3,Drive-through,San Francisco,California,Medium
+A00066,B03006,3,On-site,San Francisco,California,Medium
+A00067,B03007,3,Drive-through,Miami,Florida,High
+A00068,B03007,3,Off-site,Miami,Florida,High
+A00069,B03007,3,Off-site,Miami,Florida,Medium
+A00070,B03008,3,Off-site,Seattle,Washington,High
+A00071,B03008,3,On-site,Seattle,Washington,Medium
+A00072,B03009,3,Off-site,New York,New York,Low
+A00073,B03009,3,On-site,New York,New York,High
+A00074,B03009,3,Drive-through,New York,New York,Medium
+A00075,B03010,3,Off-site,Los Angeles,California,Medium
+A00076,B03010,3,On-site,Los Angeles,California,Medium
+A00077,B04001,4,On-site,New York,New York,Medium
+A00078,B04001,4,Drive-through,New York,New York,High
+A00079,B04002,4,Drive-through,Los Angeles,California,Medium
+A00080,B04002,4,On-site,Los Angeles,California,Medium
+A00081,B04003,4,Off-site,Chicago,Illinois,High
+A00082,B04003,4,Drive-through,Chicago,Illinois,High
+A00083,B04004,4,Off-site,Houston,Texas,High
+A00084,B04004,4,On-site,Houston,Texas,High
+A00085,B04005,4,Drive-through,Dallas,Texas,High
+A00086,B04005,4,On-site,Dallas,Texas,Low
+A00087,B04006,4,On-site,San Francisco,California,Medium
+A00088,B04006,4,On-site,San Francisco,California,Medium
+A00089,B04006,4,Off-site,San Francisco,California,Low
+A00090,B04007,4,Drive-through,Miami,Florida,Low
+A00091,B04007,4,On-site,Miami,Florida,Low
+A00092,B04007,4,Off-site,Miami,Florida,Low
+A00093,B04008,4,Drive-through,Seattle,Washington,Low
+A00094,B04008,4,On-site,Seattle,Washington,High
+A00095,B04008,4,On-site,Seattle,Washington,Medium
+A00096,B04009,4,On-site,New York,New York,Low
+A00097,B04009,4,On-site,New York,New York,Low
+A00098,B04010,4,Drive-through,Los Angeles,California,High
+A00099,B04010,4,Drive-through,Los Angeles,California,Low
+A00100,B04010,4,On-site,Los Angeles,California,High
+A00101,B05001,5,Drive-through,London,England,High
+A00102,B05001,5,Drive-through,London,England,High
+A00103,B05002,5,Drive-through,Manchester,England,Medium
+A00104,B05002,5,Drive-through,Manchester,England,High
+A00105,B05002,5,Off-site,Manchester,England,Low
+A00106,B05003,5,On-site,Birmingham,England,Low
+A00107,B05003,5,Drive-through,Birmingham,England,Medium
+A00108,B05004,5,Off-site,Liverpool,England,Medium
+A00109,B05004,5,On-site,Liverpool,England,High
+A00110,B05004,5,Off-site,Liverpool,England,Low
+A00111,B05005,5,On-site,Leeds,England,Low
+A00112,B05005,5,On-site,Leeds,England,Medium
+A00113,B05005,5,On-site,Leeds,England,Medium
+A00114,B05006,5,Drive-through,London,England,Medium
+A00115,B05006,5,Off-site,London,England,Low
+A00116,B05006,5,On-site,London,England,Medium
+A00117,B05007,5,On-site,Manchester,England,High
+A00118,B05007,5,Off-site,Manchester,England,Medium
+A00119,B05008,5,Off-site,Birmingham,England,Low
+A00120,B05008,5,Drive-through,Birmingham,England,Low
+A00121,B05009,5,Off-site,Liverpool,England,Medium
+A00122,B05009,5,Off-site,Liverpool,England,High
+A00123,B05009,5,On-site,Liverpool,England,Medium
+A00124,B05010,5,Off-site,Leeds,England,Low
+A00125,B05010,5,On-site,Leeds,England,High
+A00126,B05010,5,Off-site,Leeds,England,Medium
+A00127,B06001,6,Off-site,London,England,Medium
+A00128,B06001,6,On-site,London,England,Medium
+A00129,B06001,6,Off-site,London,England,High
+A00130,B06002,6,Off-site,Manchester,England,Medium
+A00131,B06002,6,Drive-through,Manchester,England,Medium
+A00132,B06003,6,On-site,Birmingham,England,Low
+A00133,B06003,6,Drive-through,Birmingham,England,Low
+A00134,B06004,6,On-site,Liverpool,England,Medium
+A00135,B06004,6,Off-site,Liverpool,England,Medium
+A00136,B06005,6,Off-site,Leeds,England,Medium
+A00137,B06005,6,Drive-through,Leeds,England,Medium
+A00138,B06005,6,On-site,Leeds,England,Medium
+A00139,B06006,6,Drive-through,London,England,Medium
+A00140,B06006,6,Off-site,London,England,Medium
+A00141,B06007,6,On-site,Manchester,England,Medium
+A00142,B06007,6,Off-site,Manchester,England,Medium
+A00143,B06008,6,On-site,Birmingham,England,Medium
+A00144,B06008,6,Off-site,Birmingham,England,Medium
+A00145,B06009,6,Off-site,Liverpool,England,Medium
+A00146,B06009,6,Off-site,Liverpool,England,Medium
+A00147,B06009,6,Off-site,Liverpool,England,Medium
+A00148,B06010,6,Off-site,Leeds,England,Medium
+A00149,B06010,6,On-site,Leeds,England,Medium
+A00150,B06010,6,Off-site,Leeds,England,Medium
+A00151,B07001,7,Drive-through,Berlin,Berlin,Medium
+A00152,B07001,7,Drive-through,Berlin,Berlin,Medium
+A00153,B07002,7,On-site,Munich,Bavaria,High
+A00154,B07002,7,Drive-through,Munich,Bavaria,Medium
+A00155,B07002,7,Drive-through,Munich,Bavaria,Medium
+A00156,B07003,7,On-site,Frankfurt,Hesse,Medium
+A00157,B07003,7,Off-site,Frankfurt,Hesse,High
+A00158,B07003,7,Off-site,Frankfurt,Hesse,Medium
+A00159,B07004,7,On-site,Hamburg,Hamburg,Low
+A00160,B07004,7,Drive-through,Hamburg,Hamburg,High
+A00161,B07005,7,On-site,Cologne,North Rhine-Westphalia,Medium
+A00162,B07005,7,Off-site,Cologne,North Rhine-Westphalia,Medium
+A00163,B07006,7,Drive-through,Berlin,Berlin,Medium
+A00164,B07006,7,On-site,Berlin,Berlin,Medium
+A00165,B07007,7,Off-site,Munich,Bavaria,High
+A00166,B07007,7,Drive-through,Munich,Bavaria,High
+A00167,B07008,7,Drive-through,Frankfurt,Hesse,Low
+A00168,B07008,7,On-site,Frankfurt,Hesse,Medium
+A00169,B07009,7,Off-site,Hamburg,Hamburg,Medium
+A00170,B07009,7,Off-site,Hamburg,Hamburg,High
+A00171,B07010,7,Off-site,Cologne,North Rhine-Westphalia,High
+A00172,B07010,7,Off-site,Cologne,North Rhine-Westphalia,Medium
+A00173,B07010,7,Drive-through,Cologne,North Rhine-Westphalia,Medium
+A00174,B08001,8,Drive-through,Mumbai,Maharashtra,Medium
+A00175,B08001,8,Drive-through,Mumbai,Maharashtra,Medium
+A00176,B08001,8,Off-site,Mumbai,Maharashtra,Low
+A00177,B08002,8,Drive-through,Delhi,Delhi,Medium
+A00178,B08002,8,Off-site,Delhi,Delhi,Low
+A00179,B08003,8,Off-site,Bengaluru,Karnataka,High
+A00180,B08003,8,Drive-through,Bengaluru,Karnataka,High
+A00181,B08004,8,On-site,Chennai,Tamil Nadu,High
+A00182,B08004,8,Drive-through,Chennai,Tamil Nadu,High
+A00183,B08004,8,Off-site,Chennai,Tamil Nadu,Low
+A00184,B08005,8,Drive-through,Hyderabad,Telangana,Medium
+A00185,B08005,8,On-site,Hyderabad,Telangana,Low
+A00186,B08006,8,On-site,Pune,Maharashtra,Medium
+A00187,B08006,8,Off-site,Pune,Maharashtra,Medium
+A00188,B08006,8,Drive-through,Pune,Maharashtra,Low
+A00189,B08007,8,On-site,Kolkata,West Bengal,High
+A00190,B08007,8,Drive-through,Kolkata,West Bengal,Low
+A00191,B08008,8,On-site,Ahmedabad,Gujarat,Medium
+A00192,B08008,8,On-site,Ahmedabad,Gujarat,Medium
+A00193,B08009,8,Drive-through,Mumbai,Maharashtra,Medium
+A00194,B08009,8,On-site,Mumbai,Maharashtra,Low
+A00195,B08009,8,On-site,Mumbai,Maharashtra,Low
+A00196,B08010,8,Drive-through,Delhi,Delhi,Medium
+A00197,B08010,8,Off-site,Delhi,Delhi,Medium
+A00198,B08010,8,Off-site,Delhi,Delhi,Medium
+A00199,B09001,9,Off-site,Mumbai,Maharashtra,Low
+A00200,B09001,9,Drive-through,Mumbai,Maharashtra,Medium
+A00201,B09001,9,Drive-through,Mumbai,Maharashtra,Medium
+A00202,B09002,9,Drive-through,Delhi,Delhi,High
+A00203,B09002,9,On-site,Delhi,Delhi,Medium
+A00204,B09003,9,Drive-through,Bengaluru,Karnataka,High
+A00205,B09003,9,Off-site,Bengaluru,Karnataka,Medium
+A00206,B09003,9,Off-site,Bengaluru,Karnataka,High
+A00207,B09004,9,On-site,Chennai,Tamil Nadu,High
+A00208,B09004,9,Off-site,Chennai,Tamil Nadu,Medium
+A00209,B09004,9,Off-site,Chennai,Tamil Nadu,Medium
+A00210,B09005,9,Off-site,Hyderabad,Telangana,Low
+A00211,B09005,9,On-site,Hyderabad,Telangana,Medium
+A00212,B09005,9,Drive-through,Hyderabad,Telangana,High
+A00213,B09006,9,Off-site,Pune,Maharashtra,Low
+A00214,B09006,9,On-site,Pune,Maharashtra,Medium
+A00215,B09006,9,On-site,Pune,Maharashtra,Low
+A00216,B09007,9,Off-site,Kolkata,West Bengal,High
+A00217,B09007,9,Drive-through,Kolkata,West Bengal,Medium
+A00218,B09008,9,On-site,Ahmedabad,Gujarat,Medium
+A00219,B09008,9,Off-site,Ahmedabad,Gujarat,Low
+A00220,B09009,9,On-site,Mumbai,Maharashtra,Medium
+A00221,B09009,9,Off-site,Mumbai,Maharashtra,Medium
+A00222,B09010,9,Drive-through,Delhi,Delhi,Medium
+A00223,B09010,9,Drive-through,Delhi,Delhi,Medium
+A00224,B09010,9,Drive-through,Delhi,Delhi,High
+A00225,B10001,10,Off-site,Mumbai,Maharashtra,Medium
+A00226,B10001,10,On-site,Mumbai,Maharashtra,High
+A00227,B10001,10,Off-site,Mumbai,Maharashtra,High
+A00228,B10002,10,On-site,Delhi,Delhi,Low
+A00229,B10002,10,Off-site,Delhi,Delhi,Medium
+A00230,B10002,10,Drive-through,Delhi,Delhi,Medium
+A00231,B10003,10,Drive-through,Bengaluru,Karnataka,Medium
+A00232,B10003,10,Off-site,Bengaluru,Karnataka,High
+A00233,B10003,10,On-site,Bengaluru,Karnataka,High
+A00234,B10004,10,Drive-through,Chennai,Tamil Nadu,Medium
+A00235,B10004,10,Drive-through,Chennai,Tamil Nadu,Medium
+A00236,B10005,10,On-site,Hyderabad,Telangana,Low
+A00237,B10005,10,On-site,Hyderabad,Telangana,Low
+A00238,B10006,10,Drive-through,Pune,Maharashtra,Medium
+A00239,B10006,10,Drive-through,Pune,Maharashtra,High
+A00240,B10006,10,Drive-through,Pune,Maharashtra,Medium
+A00241,B10007,10,On-site,Kolkata,West Bengal,Medium
+A00242,B10007,10,On-site,Kolkata,West Bengal,High
+A00243,B10007,10,Off-site,Kolkata,West Bengal,Low
+A00244,B10008,10,Off-site,Ahmedabad,Gujarat,High
+A00245,B10008,10,On-site,Ahmedabad,Gujarat,High
+A00246,B10008,10,Off-site,Ahmedabad,Gujarat,High
+A00247,B10009,10,On-site,Mumbai,Maharashtra,Medium
+A00248,B10009,10,Drive-through,Mumbai,Maharashtra,Low
+A00249,B10010,10,Drive-through,Delhi,Delhi,Medium
+A00250,B10010,10,Drive-through,Delhi,Delhi,Medium

@@ -1,0 +1,11 @@
+﻿BankID,BankName,Country,Region,BankType
+1,JPMorgan Chase,USA,North America,Commercial & Investment Banking
+2,Bank of America,USA,North America,Commercial & Retail Banking
+3,Wells Fargo,USA,North America,Retail & Commercial Banking
+4,Citigroup,USA,North America,Global Banking
+5,HSBC,UK,Europe,International Banking
+6,Barclays,UK,Europe,Universal Banking
+7,Deutsche Bank,Germany,Europe,Universal Banking
+8,ICICI Bank,India,Asia,Retail & Corporate Banking
+9,HDFC Bank,India,Asia,Retail & Corporate Banking
+10,State Bank of India,India,Asia,Public Sector Banking

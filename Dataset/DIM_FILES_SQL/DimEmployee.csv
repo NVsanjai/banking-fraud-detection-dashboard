@@ -1,0 +1,151 @@
+﻿EmployeeID,BankID,EmployeeName,Department,Role,ExperienceYears,CasesAssigned,CasesResolved
+E00001,2,Investigator 001,Compliance,Analyst,15,79,75
+E00002,7,Investigator 002,AML,Senior Analyst,7,92,14
+E00003,3,Investigator 003,AML,Manager,10,60,44
+E00004,10,Investigator 004,Compliance,Manager,8,89,5
+E00005,8,Investigator 005,Risk,Investigator,3,49,44
+E00006,7,Investigator 006,Compliance,Investigator,8,70,5
+E00007,2,Investigator 007,Risk,Analyst,1,73,26
+E00008,10,Investigator 008,Fraud Operations,Manager,9,67,79
+E00009,3,Investigator 009,Fraud Operations,Manager,8,82,35
+E00010,3,Investigator 010,Compliance,Manager,4,38,49
+E00011,4,Investigator 011,Risk,Investigator,4,18,22
+E00012,6,Investigator 012,Compliance,Manager,8,30,71
+E00013,7,Investigator 013,Risk,Investigator,1,15,6
+E00014,2,Investigator 014,AML,Analyst,10,99,12
+E00015,2,Investigator 015,Fraud Operations,Senior Analyst,3,34,67
+E00016,9,Investigator 016,Fraud Operations,Senior Analyst,7,67,41
+E00017,3,Investigator 017,AML,Manager,7,67,74
+E00018,6,Investigator 018,Risk,Investigator,15,7,28
+E00019,6,Investigator 019,AML,Senior Analyst,11,99,48
+E00020,6,Investigator 020,Compliance,Investigator,13,22,32
+E00021,6,Investigator 021,Fraud Operations,Analyst,9,12,22
+E00022,1,Investigator 022,Fraud Operations,Manager,2,47,34
+E00023,2,Investigator 023,Fraud Operations,Manager,3,29,36
+E00024,9,Investigator 024,Compliance,Manager,6,92,24
+E00025,9,Investigator 025,Fraud Operations,Analyst,11,39,8
+E00026,6,Investigator 026,Risk,Analyst,4,83,29
+E00027,5,Investigator 027,Fraud Operations,Investigator,2,32,25
+E00028,10,Investigator 028,AML,Analyst,6,94,29
+E00029,10,Investigator 029,AML,Senior Analyst,1,5,79
+E00030,7,Investigator 030,Compliance,Manager,14,50,40
+E00031,1,Investigator 031,Compliance,Analyst,15,75,32
+E00032,1,Investigator 032,Compliance,Investigator,11,91,22
+E00033,10,Investigator 033,Risk,Senior Analyst,8,47,13
+E00034,1,Investigator 034,Risk,Manager,15,29,70
+E00035,7,Investigator 035,Fraud Operations,Senior Analyst,14,13,9
+E00036,10,Investigator 036,Fraud Operations,Investigator,4,51,18
+E00037,3,Investigator 037,Risk,Senior Analyst,7,81,62
+E00038,8,Investigator 038,AML,Analyst,13,20,15
+E00039,2,Investigator 039,AML,Investigator,8,19,21
+E00040,6,Investigator 040,Compliance,Analyst,12,67,45
+E00041,3,Investigator 041,AML,Investigator,8,88,45
+E00042,9,Investigator 042,AML,Investigator,6,46,9
+E00043,7,Investigator 043,Risk,Investigator,13,10,20
+E00044,3,Investigator 044,Compliance,Senior Analyst,10,41,23
+E00045,9,Investigator 045,Compliance,Analyst,8,42,34
+E00046,10,Investigator 046,Risk,Analyst,14,8,25
+E00047,6,Investigator 047,Risk,Investigator,8,9,72
+E00048,5,Investigator 048,Fraud Operations,Investigator,11,27,53
+E00049,3,Investigator 049,Fraud Operations,Investigator,10,75,58
+E00050,3,Investigator 050,Risk,Manager,6,77,49
+E00051,9,Investigator 051,Fraud Operations,Senior Analyst,4,53,33
+E00052,3,Investigator 052,AML,Manager,5,91,73
+E00053,1,Investigator 053,Compliance,Manager,12,67,59
+E00054,6,Investigator 054,AML,Manager,7,16,40
+E00055,5,Investigator 055,Risk,Investigator,10,10,47
+E00056,1,Investigator 056,Risk,Analyst,10,26,67
+E00057,9,Investigator 057,Fraud Operations,Analyst,15,92,39
+E00058,9,Investigator 058,Compliance,Senior Analyst,6,66,6
+E00059,9,Investigator 059,AML,Manager,15,45,38
+E00060,2,Investigator 060,Risk,Senior Analyst,10,55,12
+E00061,10,Investigator 061,Compliance,Manager,7,37,76
+E00062,7,Investigator 062,Fraud Operations,Senior Analyst,1,32,49
+E00063,3,Investigator 063,Compliance,Analyst,5,10,50
+E00064,6,Investigator 064,Fraud Operations,Analyst,9,36,15
+E00065,4,Investigator 065,Fraud Operations,Analyst,4,82,40
+E00066,7,Investigator 066,Compliance,Manager,7,69,27
+E00067,9,Investigator 067,Risk,Analyst,14,83,78
+E00068,5,Investigator 068,AML,Manager,10,96,79
+E00069,10,Investigator 069,Risk,Manager,1,5,52
+E00070,1,Investigator 070,Fraud Operations,Analyst,13,33,45
+E00071,5,Investigator 071,Compliance,Analyst,11,38,21
+E00072,4,Investigator 072,Compliance,Investigator,10,21,50
+E00073,1,Investigator 073,Compliance,Investigator,7,23,73
+E00074,5,Investigator 074,AML,Senior Analyst,2,33,51
+E00075,8,Investigator 075,Fraud Operations,Manager,9,49,22
+E00076,10,Investigator 076,Risk,Investigator,15,36,76
+E00077,10,Investigator 077,AML,Investigator,4,48,39
+E00078,6,Investigator 078,AML,Senior Analyst,10,58,24
+E00079,2,Investigator 079,AML,Investigator,4,94,51
+E00080,5,Investigator 080,AML,Investigator,2,45,79
+E00081,6,Investigator 081,Fraud Operations,Analyst,9,73,18
+E00082,7,Investigator 082,Risk,Analyst,11,46,4
+E00083,3,Investigator 083,Risk,Manager,8,24,34
+E00084,9,Investigator 084,Risk,Analyst,15,5,69
+E00085,5,Investigator 085,AML,Senior Analyst,9,71,52
+E00086,6,Investigator 086,Compliance,Investigator,4,48,74
+E00087,4,Investigator 087,AML,Senior Analyst,15,40,26
+E00088,10,Investigator 088,Compliance,Senior Analyst,5,68,39
+E00089,1,Investigator 089,Fraud Operations,Analyst,9,98,75
+E00090,5,Investigator 090,Compliance,Manager,13,26,1
+E00091,9,Investigator 091,AML,Manager,14,63,55
+E00092,8,Investigator 092,Risk,Manager,14,34,33
+E00093,4,Investigator 093,AML,Analyst,7,73,36
+E00094,1,Investigator 094,Fraud Operations,Analyst,14,6,3
+E00095,9,Investigator 095,Risk,Senior Analyst,4,45,10
+E00096,3,Investigator 096,AML,Senior Analyst,9,39,60
+E00097,6,Investigator 097,Fraud Operations,Analyst,6,5,5
+E00098,10,Investigator 098,Compliance,Senior Analyst,13,76,77
+E00099,6,Investigator 099,AML,Analyst,4,92,9
+E00100,5,Investigator 100,Compliance,Manager,12,8,20
+E00101,5,Investigator 101,Compliance,Senior Analyst,8,80,14
+E00102,4,Investigator 102,Fraud Operations,Analyst,4,83,58
+E00103,3,Investigator 103,AML,Investigator,1,6,30
+E00104,9,Investigator 104,Compliance,Senior Analyst,3,20,45
+E00105,1,Investigator 105,Fraud Operations,Investigator,6,41,1
+E00106,7,Investigator 106,Risk,Senior Analyst,7,28,10
+E00107,5,Investigator 107,Fraud Operations,Investigator,4,14,77
+E00108,2,Investigator 108,Compliance,Senior Analyst,7,61,17
+E00109,9,Investigator 109,Compliance,Investigator,5,12,41
+E00110,9,Investigator 110,Risk,Senior Analyst,9,13,20
+E00111,5,Investigator 111,Compliance,Analyst,5,38,53
+E00112,2,Investigator 112,AML,Senior Analyst,14,77,21
+E00113,3,Investigator 113,AML,Senior Analyst,8,46,28
+E00114,6,Investigator 114,Risk,Manager,13,40,72
+E00115,6,Investigator 115,AML,Senior Analyst,7,72,51
+E00116,9,Investigator 116,Compliance,Investigator,7,92,16
+E00117,10,Investigator 117,Fraud Operations,Senior Analyst,2,80,38
+E00118,6,Investigator 118,Fraud Operations,Manager,11,60,6
+E00119,10,Investigator 119,Risk,Analyst,1,67,11
+E00120,7,Investigator 120,Fraud Operations,Analyst,15,52,37
+E00121,8,Investigator 121,AML,Senior Analyst,14,52,3
+E00122,2,Investigator 122,Compliance,Senior Analyst,12,38,24
+E00123,3,Investigator 123,Compliance,Investigator,14,51,74
+E00124,9,Investigator 124,Compliance,Senior Analyst,4,41,43
+E00125,8,Investigator 125,Compliance,Investigator,1,58,51
+E00126,4,Investigator 126,Compliance,Manager,11,52,39
+E00127,6,Investigator 127,Risk,Analyst,9,46,29
+E00128,9,Investigator 128,Fraud Operations,Investigator,5,80,62
+E00129,1,Investigator 129,Compliance,Senior Analyst,8,24,22
+E00130,9,Investigator 130,AML,Senior Analyst,7,5,11
+E00131,5,Investigator 131,Fraud Operations,Senior Analyst,3,67,26
+E00132,9,Investigator 132,Fraud Operations,Senior Analyst,10,63,70
+E00133,6,Investigator 133,Risk,Analyst,8,29,60
+E00134,9,Investigator 134,AML,Senior Analyst,8,61,22
+E00135,3,Investigator 135,Fraud Operations,Senior Analyst,13,81,46
+E00136,8,Investigator 136,Compliance,Investigator,7,88,65
+E00137,1,Investigator 137,Risk,Manager,7,64,12
+E00138,6,Investigator 138,Risk,Senior Analyst,11,57,69
+E00139,6,Investigator 139,Fraud Operations,Analyst,4,32,4
+E00140,4,Investigator 140,AML,Manager,8,32,24
+E00141,9,Investigator 141,Fraud Operations,Investigator,3,46,66
+E00142,5,Investigator 142,Risk,Senior Analyst,3,48,48
+E00143,4,Investigator 143,Fraud Operations,Analyst,7,11,18
+E00144,1,Investigator 144,Compliance,Manager,8,52,17
+E00145,6,Investigator 145,Fraud Operations,Manager,9,78,36
+E00146,7,Investigator 146,Risk,Analyst,1,98,6
+E00147,7,Investigator 147,Fraud Operations,Investigator,14,47,73
+E00148,4,Investigator 148,Compliance,Analyst,3,33,5
+E00149,1,Investigator 149,Risk,Manager,11,70,20
+E00150,10,Investigator 150,AML,Senior Analyst,15,63,2
